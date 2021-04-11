@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-04-07T14:48:08.387Z</updated>
+  <updated>2021-04-11T02:08:31.855Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>汽车构造--发动机简述</title>
+    <link href="http://example.com/2021/04/08/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0-%E5%8F%91%E9%80%81%E6%9C%BA%E7%AE%80%E8%BF%B0/"/>
+    <id>http://example.com/2021/04/08/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0-%E5%8F%91%E9%80%81%E6%9C%BA%E7%AE%80%E8%BF%B0/</id>
+    <published>2021-04-08T11:21:57.000Z</published>
+    <updated>2021-04-11T02:08:31.855Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>发主要对我专业课《汽车构造》所学知识进行整理。也可能稍微设计其他专业课和课外知识</p><hr><ul><li><h2 id="发动机类型"><a href="#发动机类型" class="headerlink" title="发动机类型"></a>发动机类型</h2></li></ul><p>发动机作车辆中相当于心脏的存在，是汽车的动力源。他在车辆行驶中启着至关重要的作用。发动机按照不同的标准有不同的分类，各种分类下也细分出多种小类。下图是我对发动机的一些分类<img src="https://z3.ax1x.com/2021/04/09/cNrKAS.png"></p><p>此外按照冷却方式不同。也可以分为水冷和风冷。按照进气方式不同，可分为增压和非增压….</p><ul><li><h3 id="转子发动机"><a href="#转子发动机" class="headerlink" title="转子发动机"></a>转子发动机</h3></li></ul><p>转子发动机专利现在在日本马自达公司手里</p><ul><li><h3 id="电动机"><a href="#电动机" class="headerlink" title="电动机"></a>电动机</h3></li><li><h3 id="增程式发动机"><a href="#增程式发动机" class="headerlink" title="增程式发动机"></a>增程式发动机</h3></li><li></li><li><h2 id="发动机结构"><a href="#发动机结构" class="headerlink" title="发动机结构"></a>发动机结构</h2></li></ul><p>以下如果没有特殊说明。则指的是<strong>水冷，四冲程四缸往复式内燃机</strong>。一般都具有<strong>两大机构</strong>和<strong>五大系统</strong>。</p><img src="https://z3.ax1x.com/2021/04/09/cNsY2d.png" alt="cNsY2d.png" style="zoom: 67%;" /><p>基本术语</p><p><a href="https://imgtu.com/i/cdlH3T"><img src="https://z3.ax1x.com/2021/04/10/cdlH3T.png" alt="cdlH3T.png"></a></p><p>w</p><h3 id="1-工作循环："><a href="#1-工作循环：" class="headerlink" title="1.工作循环："></a>1.工作循环：</h3><p>   指的就是进气，压缩，做功和排气。这期间曲轴旋转两周。所以叫做四冲程</p><h3 id="2-上下止点"><a href="#2-上下止点" class="headerlink" title="2.上下止点"></a>2.上下止点</h3><p>   活塞离曲轴回转中心最远的为上止点，最近的为下止点</p><h3 id="3-活塞行程"><a href="#3-活塞行程" class="headerlink" title="3.活塞行程"></a>3.活塞行程</h3><p>   上下止点的距离为活塞行程</p><h3 id="4-容积"><a href="#4-容积" class="headerlink" title="4.容积"></a>4.容积</h3><p>从上到下分别为</p><p>燃烧室容积 VC</p><p>工作容积 VS</p><p>总容积 VA=VC+VS</p><p>压缩比 <img src="file:///C:/Users/25137/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png" alt="img"></p><h3 id="5-工况"><a href="#5-工况" class="headerlink" title="5.工况"></a>5.工况</h3><p>内燃机某一时刻的运行状况</p><h3 id="6-负荷率"><a href="#6-负荷率" class="headerlink" title="6.负荷率"></a>6.负荷率</h3><p>有效功和最大功的比值</p><ul><li><h2 id="四冲程内燃机工作原理"><a href="#四冲程内燃机工作原理" class="headerlink" title="四冲程内燃机工作原理"></a>四冲程内燃机工作原理</h2><p><img src="https://z3.ax1x.com/2021/04/11/cwKnMQ.png" alt="cwKnMQ.png"></p></li></ul><p>​                                                                                           <u><em>P-V</em></u><u><em>示功图</em></u></p><p>详细的工作过程就不在这儿写了。需要注意的的就是每个工作过程的压强和温度。为了提高压缩比，防止爆震，提高进气量等，所做的设计：气缸偏置，进气门早开晚关，气环等等就以后单独再写吧。</p><p>值得一提的是柴油机因为柴油机燃点低，所以没有点火这一步骤。</p><h2 id="内燃机型号怎么看"><a href="#内燃机型号怎么看" class="headerlink" title="内燃机型号怎么看"></a>内燃机型号怎么看</h2><p><img src="https://z3.ax1x.com/2021/04/10/cdg5Z9.png" alt="cdg5Z9.png"></p><p>内燃机的产品型号由首部、中部、后部和尾部四部分组成。<br>  首部：为产品特征代号，包括产品的系列代号、换代标志符号和地方、企业代号三部分。<br>  中部：由缸数符号、气缸排列形式符号、冲程符号和缸径符号组成。气缸数和缸径由数字表示，气缸排列形式符号为V，表示气缸排列像V字形，P表示卧式水平排列，直立及单缸卧式不标注排列符号。冲程符号用E表示二冲程，无E字母表示四冲程。<br>  后部：为结构特征符号和用途特征符号。结构特征中F表示风冷，N表示凝汽冷却，Z表示增压，无字母表示水冷。用途特征符号中T表示用于拖拉机，G表示用于工作机械，Q表示用于车类，通用型不标号。<br>尾部：区分符号。</p><p>如</p><p>CA488型汽油发动机主要技术参数</p><p>形式 四行程、直列、水冷、顶置凸轮轴、化油器式汽油发动机</p><p>气缸数 4</p><p>气缸直径 87.5mm</p><p><img src="https://z3.ax1x.com/2021/04/10/cdgxZd.png" alt="cdgxZd.png"></p><p>我去网上找了一份。有兴趣可以看看</p><p><em>汽车发动机总体构造</em></p><p><code>https://wws.lanzous.com/iv8NQnw6juf密码:btbw</code></p><p><code>一些网站</code></p><p><code>&lt;!--http://www.china-engine.net/--&gt;中国发动机网</code></p>]]></content>
+    
+    
+    <summary type="html">一般汽油或柴油发动机都具有两大机构，五大系统组成</summary>
+    
+    
+    
+    <category term="大学知识整理" scheme="http://example.com/categories/%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/"/>
+    
+    <category term="车辆" scheme="http://example.com/categories/%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/%E8%BD%A6%E8%BE%86/"/>
+    
+    
+    <category term="发动机" scheme="http://example.com/tags/%E5%8F%91%E5%8A%A8%E6%9C%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>手机美化</title>
