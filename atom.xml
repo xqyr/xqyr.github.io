@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-04-22T14:52:22.082Z</updated>
+  <updated>2021-05-01T02:55:47.435Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>曲柄连杆机构</title>
+    <link href="http://example.com/2021/04/19/%E6%9B%B2%E6%9F%84%E8%BF%9E%E6%9D%86%E6%9C%BA%E6%9E%84/"/>
+    <id>http://example.com/2021/04/19/%E6%9B%B2%E6%9F%84%E8%BF%9E%E6%9D%86%E6%9C%BA%E6%9E%84/</id>
+    <published>2021-04-19T10:17:22.000Z</published>
+    <updated>2021-05-01T02:55:47.435Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="曲柄连杆机构"><a href="#曲柄连杆机构" class="headerlink" title="曲柄连杆机构"></a>曲柄连杆机构</h1><p>作用：将燃烧时产生的热能转变为活塞往复运动的机械能，再通过连杆将活塞的往复运动变为曲轴的旋转运动，从而对外输出动力。</p><h2 id="曲柄连杆机构的组成"><a href="#曲柄连杆机构的组成" class="headerlink" title="曲柄连杆机构的组成"></a>曲柄连杆机构的组成</h2><p><a href="https://imgtu.com/i/cTnmlV"><img src="https://z3.ax1x.com/2021/04/19/cTnmlV.png" alt="cTnmlV.png"></a></p><h2 id="活塞组"><a href="#活塞组" class="headerlink" title="活塞组"></a>活塞组</h2><h3 id="活塞"><a href="#活塞" class="headerlink" title="活塞"></a>活塞</h3><p><a href="https://imgtu.com/i/gp12lR"><img src="https://z3.ax1x.com/2021/04/26/gp12lR.jpg" alt="gp12lR.jpg"></a></p><ul><li><h4 id="活塞作用和工作条件"><a href="#活塞作用和工作条件" class="headerlink" title="活塞作用和工作条件"></a>活塞作用和工作条件</h4><p>承受燃烧气体压力，并将此力通过活塞销传给连杆推动曲轴转动。</p></li><li><h4 id="活塞材料"><a href="#活塞材料" class="headerlink" title="活塞材料"></a>活塞材料</h4><p>活塞材料多为铝合金。密度小，导热好。</p></li><li><h4 id="活塞构造"><a href="#活塞构造" class="headerlink" title="活塞构造"></a><strong>活塞构造</strong></h4><h5 id="顶部"><a href="#顶部" class="headerlink" title="顶部"></a>顶部</h5><p>形状与燃烧室形状和压缩比有关。大多采用平顶</p><p>凹顶可以通过调节来改变压缩比</p><p>凸顶增大压缩比</p><h5 id="头部"><a href="#头部" class="headerlink" title="头部"></a>头部</h5><p>普遍为三环短活塞：上下气环和油环。</p><p>油环槽底部还有回油孔或横向切槽，让油流回油底壳。</p><p>头部足够厚。顶部到环槽过度圆角足够大，便于热量传给气缸壁</p><p>在第一道气环上方设置隔热槽。使热量也能从二三道活塞环中流出</p><p>在第一道第二道气环镶嵌耐热护垫圈。材料一般为和活塞材料膨胀系数差不多的镍络奥氏体铸铁和高猛奥氏体铸铁。</p><p>为提高强度和耐磨。在头部会注入纤维增强合金圆环</p><h5 id="裙部"><a href="#裙部" class="headerlink" title="裙部"></a>裙部</h5><p>裙部的形状应该保证活塞有良好的导向性</p><p>受力变形，受热膨胀。活塞裙部的横切面应加工成<strong>椭圆形</strong>。使其长轴和活塞销轴线垂直。</p><p>从上到下温度不均匀。所以裙部形状也应<strong>上小下大</strong>的圆锥或桶形。</p><h5 id="其他小知识（活塞销）"><a href="#其他小知识（活塞销）" class="headerlink" title="其他小知识（活塞销）"></a>其他小知识（活塞销）</h5><p>恒范活塞：在活塞销座处镶嵌恒范钢片的活塞。</p><p>高速转动发动机中活塞销孔轴线会朝主推力面一侧偏离活塞轴线1-2mm。减少活塞对缸壁的拍击。</p></li><li><h4 id="活塞冷却和表面处理"><a href="#活塞冷却和表面处理" class="headerlink" title="活塞冷却和表面处理"></a>活塞冷却和表面处理</h4><p>冷却</p><p>1.自由喷射冷却</p><p>2.震荡冷却</p><p>3.强制冷却</p><p>表面处理</p><p>1.</p><hr></li></ul><h3 id="活塞环"><a href="#活塞环" class="headerlink" title="活塞环"></a>活塞环</h3><ul><li><p>作用及工作条件</p><p>气环的作用式密封和传热。油环的作用刮油和润滑</p></li><li><p>材料及表面处理</p><p>优质灰铸铁，球墨铸铁，合金铸铁等</p></li><li><p><strong>气环</strong></p><p>气环的密封原理：外轮廓比气缸直径大。在自身弹力的作用下，与气缸壁形成第一密封面。</p><p>​                                进入侧隙的高压气体使环的下侧面与环槽的下侧面紧贴形成第二密封面。</p><p>气环开口形状：直开口，斜开口（角度一般为30°或45°），阶梯开口。密封性依次增加，工艺性依次减少。</p><p>气环断面形状</p><p>​                           矩形环：加工方便，便于散热。磨合差，在环槽上窜下动，产生<strong>泵油现象</strong></p><p>​                           锥面环：性能良好，但是传热差，不用做第一道气环。</p><p>​                           扭曲环：正扭曲环。扭曲成碟子状</p><p>​                                              反扭曲环。扭曲成盖子状。</p><p>工作特点与锥面环类似。也不会在环槽上窜下动。</p><p>​                         梯形环。常用于柴油机第一道气环</p></li><li><p>油环</p></li><li><p>活塞销</p><p> 作用：连接活塞和连杆，并将活塞承受的力传给连杆</p><p>材料：低碳钢和低碳合金钢（20，20Mn，15Cr，20Cr）</p></li></ul><h2 id="连杆组"><a href="#连杆组" class="headerlink" title="连杆组"></a>连杆组</h2><p>组成：连杆体，连杆盖，连杆螺栓和连杆轴承</p><p>作用：将活塞承受的力传给曲轴，将往复运动转变为旋转运动</p><p>材料：40，40Cr，40CrMo。纤维增强铝合金。</p><p>连杆构造：小头，杆身，大头</p><p>小头的结构形状取决于活塞销的尺寸及其连杆小头的连接方式（全浮式和半浮式）</p><p>杆身断面为工字形</p><p>连杆盖装合到连杆体上时必须严格定位（止口定位和套筒定位）</p><h2 id="曲轴飞轮组"><a href="#曲轴飞轮组" class="headerlink" title="曲轴飞轮组"></a>曲轴飞轮组</h2><p>曲轴的作用：转换为力矩</p><p>材料：现代发动机多采用<strong>球墨铸铁</strong></p><p>曲轴构造</p><p>单元曲连接方式不同</p><ul><li>整体式曲轴：工作可靠，结构简单。中小型发动机</li><li>组合式：由单元曲轴组合装配。便于制造</li></ul><p>曲轴主轴颈数</p><ul><li>全支撑：相邻两个曲拐间都有主轴颈的曲轴。优点是抗弯曲能力强。主轴颈数比气缸数<strong>多一个</strong></li><li>非全支撑</li></ul><p>曲轴的油孔绕过曲柄销空腔直通曲柄销表面。</p><p>完全平衡法；在曲柄臂上都装上平衡重</p><p><strong>分段平衡法；</strong></p><h2 id="工作循环表"><a href="#工作循环表" class="headerlink" title="工作循环表"></a>工作循环表</h2><p><a href="https://imgtu.com/i/gVucOH"><img src="https://z3.ax1x.com/2021/05/01/gVucOH.png" alt="gVucOH.png"></a></p><h2 id="正时"><a href="#正时" class="headerlink" title="正时"></a>正时</h2><p>活塞气门配合位置正确</p><p>喷油器喷油时刻正确</p><p>火花塞点火时刻正确</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="大学知识整理" scheme="http://example.com/categories/%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/"/>
+    
+    <category term="汽车构造" scheme="http://example.com/categories/%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0/"/>
+    
+    <category term="曲柄连杆机构" scheme="http://example.com/categories/%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0/%E6%9B%B2%E6%9F%84%E8%BF%9E%E6%9D%86%E6%9C%BA%E6%9E%84/"/>
+    
+    
+    <category term="发动机" scheme="http://example.com/tags/%E5%8F%91%E5%8A%A8%E6%9C%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>机械设计-连接-螺纹</title>
@@ -123,7 +151,7 @@
     <published>2021-04-04T15:54:03.000Z</published>
     <updated>2021-04-12T15:18:57.214Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><img src="https://ae01.alicdn.com/kf/Udd548ab7a4184df9b284879731949119t.jpg"><span id="more"></span></p>    <div id="aplayer-ifnytKKe" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="3986040" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#555"    ></div><p>在我高中的时候我把将夜读完了。在读将夜之前，我接触的也是网络小说，对于实体书的阅读回想从识字到高中也没读过几本，也不谈留下深刻印象的了。一个是家里环境，父母都不是爱阅读的人，一个是自己尝试去阅读名著发现很难读下去。还记得一次小学期末，老师奖励了一本《钢铁是怎样炼成的》，就这本书我也用了一个暑假也才翻了个七七八八。<br>虽说将夜是网络小说，但又和在之前我读过的那些小说不一样。这是我刚开始读就认识到了的，之后愈发肯定了。</p><p>认识到将夜的不同，要从知道它开始说起。我说过我对阅读人类公认的世界名著做过尝试，其中就包括看到一个买旧书的小摊便凑过去，看看有没有我听说过的书，买回去看看。看得出这位摊主买的应该大部分都是二手书。可能是人少的缘故，摊主便向我推荐起来，正是宁缺到达都城之后考进书院那一段《朱雀之火》。对于没听说的书我是没什么兴趣的。不过纵观这个由三轮车支起的书摊。既有像四大名著，《月亮与六便士》之类的出版名著，也有我曾经看得津津乐道的网络红文。对于看这些书的老板如此热情推荐的书，我是极感兴趣的。在询问过价格之后，我便买下了。但是回家途中我想是不是老板觉得这本书很少会有人买所以才推荐给我的呢？</p><p>我在此之前是不知道《将夜》这本书的，读它的时候也是将他看作《哑舍》，《龙族》这类高品质的出版小说来读。前文我提到过这本书只是《将夜》的一段，可以说没头没尾。所以初读感到莫名其妙。之后也是发扬了读《钢铁是怎样炼成的》精神。分了几次读完。但是在适应或者说带入到小说中后，就入迷了。后大半段就是一气呵成。<br>将夜文风偏文青，就是闷骚这也使在青春期的我得到了极大的满足。我觉得猫腻就是会写言情文的爽文作家。使我着迷的当然是将夜的爽。爽在骄傲二字，主角设定是三好学生，别人家的孩子穿越，以天下人大多数为废柴的骄傲；以书院为代表的强者骄傲，二师兄君陌高人一等的冠，小师叔没人有资格做我师傅，世间无敌拔剑问天，陈某的一句“柯浩然已死，夫子登天，那么我便只好天下无敌。是真t m的骄傲。唐人的骄傲，不畏死。<br>之后在高中，买了个mp4下完了全本，每日都是将夜伴我入睡。看完之后记不得多少，但看时它给我那种不一样的感觉影响到我，建立我的人格，伴我一生。</p><p>将夜有许多好句子如：那年春，我把桃花切一斤。红墙白雪，要你喜欢。<br>也有好多精妙的剧情如：宁缺和夏侯决斗之前宁缺对众人说，“为什么你们都以为我是将军的儿子？”“我为什么一定要是将军的儿子？”“为什么你们都希望我是将军的儿子？”<br>我最喜欢的还是小说的最后桑桑变成一个抱着猫的贵妇人抱怨的说:“宁缺你骗人！”小说的最后桑桑好多的上天无情，最后这一句极具人情味的话语何其温馨，让我可以安心看完结局了。（最后附上我自己写的一首小诗。）</p><p>书院不器意<br>天下浩然气<br>战夏侯<br>斗观主<br>天道与我是本命<br>梳碧湖畔<br>砍出马贼<br>闻风丧胆<br>书院旧书楼<br>呕尽肝肠断<br>老笔斋鸡汤暖<br>刀，命，符，笔<br>元十三箭<br>我已分离<br>还应相见</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><img src="https://ae01.alicdn.com/kf/Udd548ab7a4184df9b284879731949119t.jpg"><span id="more"></span></p>    <div id="aplayer-ignaPGEJ" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="3986040" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#555"    ></div><p>在我高中的时候我把将夜读完了。在读将夜之前，我接触的也是网络小说，对于实体书的阅读回想从识字到高中也没读过几本，也不谈留下深刻印象的了。一个是家里环境，父母都不是爱阅读的人，一个是自己尝试去阅读名著发现很难读下去。还记得一次小学期末，老师奖励了一本《钢铁是怎样炼成的》，就这本书我也用了一个暑假也才翻了个七七八八。<br>虽说将夜是网络小说，但又和在之前我读过的那些小说不一样。这是我刚开始读就认识到了的，之后愈发肯定了。</p><p>认识到将夜的不同，要从知道它开始说起。我说过我对阅读人类公认的世界名著做过尝试，其中就包括看到一个买旧书的小摊便凑过去，看看有没有我听说过的书，买回去看看。看得出这位摊主买的应该大部分都是二手书。可能是人少的缘故，摊主便向我推荐起来，正是宁缺到达都城之后考进书院那一段《朱雀之火》。对于没听说的书我是没什么兴趣的。不过纵观这个由三轮车支起的书摊。既有像四大名著，《月亮与六便士》之类的出版名著，也有我曾经看得津津乐道的网络红文。对于看这些书的老板如此热情推荐的书，我是极感兴趣的。在询问过价格之后，我便买下了。但是回家途中我想是不是老板觉得这本书很少会有人买所以才推荐给我的呢？</p><p>我在此之前是不知道《将夜》这本书的，读它的时候也是将他看作《哑舍》，《龙族》这类高品质的出版小说来读。前文我提到过这本书只是《将夜》的一段，可以说没头没尾。所以初读感到莫名其妙。之后也是发扬了读《钢铁是怎样炼成的》精神。分了几次读完。但是在适应或者说带入到小说中后，就入迷了。后大半段就是一气呵成。<br>将夜文风偏文青，就是闷骚这也使在青春期的我得到了极大的满足。我觉得猫腻就是会写言情文的爽文作家。使我着迷的当然是将夜的爽。爽在骄傲二字，主角设定是三好学生，别人家的孩子穿越，以天下人大多数为废柴的骄傲；以书院为代表的强者骄傲，二师兄君陌高人一等的冠，小师叔没人有资格做我师傅，世间无敌拔剑问天，陈某的一句“柯浩然已死，夫子登天，那么我便只好天下无敌。是真t m的骄傲。唐人的骄傲，不畏死。<br>之后在高中，买了个mp4下完了全本，每日都是将夜伴我入睡。看完之后记不得多少，但看时它给我那种不一样的感觉影响到我，建立我的人格，伴我一生。</p><p>将夜有许多好句子如：那年春，我把桃花切一斤。红墙白雪，要你喜欢。<br>也有好多精妙的剧情如：宁缺和夏侯决斗之前宁缺对众人说，“为什么你们都以为我是将军的儿子？”“我为什么一定要是将军的儿子？”“为什么你们都希望我是将军的儿子？”<br>我最喜欢的还是小说的最后桑桑变成一个抱着猫的贵妇人抱怨的说:“宁缺你骗人！”小说的最后桑桑好多的上天无情，最后这一句极具人情味的话语何其温馨，让我可以安心看完结局了。（最后附上我自己写的一首小诗。）</p><p>书院不器意<br>天下浩然气<br>战夏侯<br>斗观主<br>天道与我是本命<br>梳碧湖畔<br>砍出马贼<br>闻风丧胆<br>书院旧书楼<br>呕尽肝肠断<br>老笔斋鸡汤暖<br>刀，命，符，笔<br>元十三箭<br>我已分离<br>还应相见</p>]]></content>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://ae01.alicdn.com/kf/Udd548ab7a4184df9b284879731949119t.jpg&quot;&gt;</summary>
