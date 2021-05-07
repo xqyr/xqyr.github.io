@@ -3,11 +3,11 @@
   <title>小憩悠然</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://xqyr.github.io/main/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2021-05-04T13:20:35.477Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://xqyr.github.io/main/"/>
+  <updated>2021-05-07T10:07:16.626Z</updated>
+  <id>https://xqyr.github.io/main/</id>
   
   <author>
     <name>小熊大大</name>
@@ -18,58 +18,58 @@
   
   <entry>
     <title>小白如何拥有个人博客</title>
-    <link href="http://example.com/2021/05/04/%E5%A6%82%E4%BD%95%E6%8B%A5%E6%9C%89%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://example.com/2021/05/04/%E5%A6%82%E4%BD%95%E6%8B%A5%E6%9C%89%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</id>
+    <link href="https://xqyr.github.io/main/2021/05/04/%E5%A6%82%E4%BD%95%E6%8B%A5%E6%9C%89%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://xqyr.github.io/main/2021/05/04/%E5%A6%82%E4%BD%95%E6%8B%A5%E6%9C%89%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</id>
     <published>2021-05-04T12:39:45.000Z</published>
-    <updated>2021-05-04T13:20:35.477Z</updated>
+    <updated>2021-05-07T10:07:16.626Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>我本人完全是小白。都是在网上找教程搭建的。比较简单<br>这是成果<a href="https://xqyr.ml/">小憩悠然</a></p><h2 id="思路"><a href="#思路" class="headerlink" title="思路"></a><strong>思路</strong></h2><p>hexo+github或者其他的hexo+gitee也行。</p><p>但是gitee普通用户需要手动更新。意思就是你传上去的文章，要在gitee pages更新一下，才能在自己的博客网站看到。所以我推荐用GitHub。</p><p>hexo你可以理解为提供一个模板给你，你可以在这个模板上写博客然后转化成网页。</p><p>GitHub就是把你的博客放到网上去</p><h2 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h2><h3 id="第一步骤：安装git"><a href="#第一步骤：安装git" class="headerlink" title="第一步骤：安装git"></a>第一步骤：安装git</h3><p>git用来管理你的Hexo文章，将本地的博客上传至Github。到Git官网选择合适的版本<a href="https://gitforwindows.org/">下载</a>，安装后会有一个Git Bash的命令行工具，之后用该工具操作Git。<a href="https://gitforwindows.org/">下载地址</a></p><p>在桌面右键选择Git Bash Here,输入下面的代码。检查是在否安装成功。正常显示版本号就可以了</p><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git --version</span><br></pre></td></tr></table></figure><h3 id="安装Node-js"><a href="#安装Node-js" class="headerlink" title="安装Node.js"></a>安装Node.js</h3><p>Hexo基于Node.js，所以需要安装Node.js及npm工具。可进入Node.js中文网<a href="http://nodejs.cn/download/">下载</a>，选择LTS（长期支持版本）即可。<a href="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/20210219192314.png">  </a></p><p>检查是否安装成功：</p><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">node -v</span><br><span class="line">npm -v</span><br></pre></td></tr></table></figure><p>正常显示版本号，无报错即为安装成功。</p><h3 id="然后我们就可安装hexo了"><a href="#然后我们就可安装hexo了" class="headerlink" title="然后我们就可安装hexo了"></a>然后我们就可安装hexo了</h3><p>右键打开Git Bash，输入命令：</p><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br><span class="line">Copy</span><br></pre></td></tr></table></figure><p>检查是否安装成功：</p><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo -v</span><br></pre></td></tr></table></figure><h3 id="你可以看看模板了"><a href="#你可以看看模板了" class="headerlink" title="你可以看看模板了"></a>你可以看看模板了</h3><p>Git Bash执行以下命令：</p><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo -g</span><br><span class="line">hexo server</span><br></pre></td></tr></table></figure><p>启动hexo服务，访问<a href="http://localhost:4000/">http://localhost:4000</a>即可看到生成的博客页面。使用Ctrl+C可关闭本地服务。</p><p><a href="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/20210219193523.png"><img src="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/20210219193523.png" alt="img"></a></p><hr><p>现在我们已经成功一大截了。之后就是把博客放到github上面去。</p><p>下面会有一点难度。注意看哟</p><h3 id="在GitHub上创建个人仓库"><a href="#在GitHub上创建个人仓库" class="headerlink" title="在GitHub上创建个人仓库"></a>在<a href="https://github.com/">GitHub</a>上创建个人仓库</h3><p>注册账号省略了。</p><p>注册完之后，你要创建一个仓库。就是下图这个。</p><p><a href="https://imgtu.com/i/guQzsx"><img src="https://z3.ax1x.com/2021/05/04/guQzsx.png" alt="guQzsx.png"></a></p><p>注册仓库的时候要注意<strong>仓库名必须是</strong>：用户名.github.io。比如我的用户名是xqyr。那么我的仓库名就是xqyr.github.io</p><p>其他的默认就好</p><p><a href="https://imgtu.com/i/gulawT"><img src="https://z3.ax1x.com/2021/05/04/gulawT.md.png" alt="gulawT.md.png"></a></p><h3 id="配置SSH"><a href="#配置SSH" class="headerlink" title="配置SSH"></a>配置SSH</h3><p>之后就是让你的电脑知道你要把你的博客传到哪里去。方法就是配置SSH</p><p>打开Git Bash，输入以下命令，生成本地密钥。这里用户名和邮箱仅作演示，用户名为你Github的用户名，邮箱为你Github的邮箱。</p><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git config --global user.name &quot;muzihuaner&quot;</span><br><span class="line">git config --global user.email &quot;xxxxxx@qq.com&quot;</span><br></pre></td></tr></table></figure><p>输入以下命令，检查输入是否正确：</p><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git config user.name</span><br><span class="line">git config user.email</span><br></pre></td></tr></table></figure><p>确认无误后，输入以下命令，创建SSH：</p><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">ssh-keygen -t rsa -C &quot;youremail&quot;</span><br></pre></td></tr></table></figure><p>无脑下一步即可</p><p>此时在用户文件夹下，已经生成了.ssh文件夹，在本地找到这个文件夹。</p><p><a href="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/20210219195310.png"><img src="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/20210219195310.png" alt="img"></a></p><p><code>id_rsa</code>是你这台电脑的私人秘钥，<code>id_rsa.pub</code>是公共秘钥。把公钥放在GitHub上，当你连接自己的Github账号时，它就会根据公钥匹配你的私钥，当能够相互匹配时，才能够顺利的通过Git上传你的文件到GitHub上。</p><p>在Github的设置中，找到<code>SSH and GPG keys</code>，新建SSH Key，以文本方式打开<code>id_rsa.pub</code>文件，将内容复制到Key，标题随便起，添加Key。</p><p><a href="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/20210219195433.png"><img src="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/20210219195433.png" alt="img"></a></p><p>现在我们相当于把钥匙做好了。我把做好的钥匙给hexo</p><h3 id="部署代码到Github"><a href="#部署代码到Github" class="headerlink" title="部署代码到Github"></a>部署代码到Github</h3><p>打开站点配置文件<code>_config.yml</code>，拉到最底部，找到deploy字段，按如下格式修改其内容：</p><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  type: git</span><br><span class="line">  repository: git@github.com:muzihuaner&#x2F;muzihuaner.github.io.git</span><br><span class="line">  branch: main</span><br><span class="line">Copy</span><br></pre></td></tr></table></figure><p>其中repo字段可在Github获取：</p><p><a href="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/image-20210219195740908.png"><img src="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/image-20210219195740908.png" alt="image-20210219195740908"></a></p><p>回到Git Bash，安装deploy-git ，用于使用命令部署到Github。</p><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure><p>然后执行：</p><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo clean&#x2F;&#x2F;可省略</span><br><span class="line">hexo generate</span><br><span class="line">hexo deploy</span><br></pre></td></tr></table></figure><p>出现下图所示说明部署成功，此时代码已同步至Github。</p><p><a href="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/image-20210219201138121.png"><img src="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/image-20210219201138121.png" alt="image-20210219201138121"></a></p><p><a href="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/image-20210219201138121.png">image-20210219201138121</a></p><p><a href="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/image-20210219201209648.png"><img src="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/image-20210219201209648.png" alt="image-20210219201209648"></a></p><p>大功告成。现在你可以在网上看到你的博客网站了。打开网址<a href="http://yourname.github.io/">http://yourname.github.io</a>就可以看到Hexo博客了。</p><p>下次我们来聊聊怎么绑定免费域名，如何配置网页主题，怎么写博客，传上去。</p><p>最后欢迎大家进我的博客<a href="https://xqyr.ml看看./">https://xqyr.ml看看。</a></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\main\assets\css\APlayer.min.css"><script src="\main\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\main\assets\js\Meting.min.js"></script><p>我本人完全是小白。都是在网上找教程搭建的。比较简单<br>这是成果<a href="https://xqyr.ml/">小憩悠然</a></p><h2 id="思路"><a href="#思路" class="headerlink" title="思路"></a><strong>思路</strong></h2><p>hexo+github或者其他的hexo+gitee也行。</p><p>但是gitee普通用户需要手动更新。意思就是你传上去的文章，要在gitee pages更新一下，才能在自己的博客网站看到。所以我推荐用GitHub。</p><p>hexo你可以理解为提供一个模板给你，你可以在这个模板上写博客然后转化成网页。</p><p>GitHub就是把你的博客放到网上去</p><h2 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h2><h3 id="第一步骤：安装git"><a href="#第一步骤：安装git" class="headerlink" title="第一步骤：安装git"></a>第一步骤：安装git</h3><p>git用来管理你的Hexo文章，将本地的博客上传至Github。到Git官网选择合适的版本<a href="https://gitforwindows.org/">下载</a>，安装后会有一个Git Bash的命令行工具，之后用该工具操作Git。<a href="https://gitforwindows.org/">下载地址</a></p><p>在桌面右键选择Git Bash Here,输入下面的代码。检查是在否安装成功。正常显示版本号就可以了</p><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git --version</span><br></pre></td></tr></table></figure><h3 id="安装Node-js"><a href="#安装Node-js" class="headerlink" title="安装Node.js"></a>安装Node.js</h3><p>Hexo基于Node.js，所以需要安装Node.js及npm工具。可进入Node.js中文网<a href="http://nodejs.cn/download/">下载</a>，选择LTS（长期支持版本）即可。<a href="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/20210219192314.png">  </a></p><p>检查是否安装成功：</p><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">node -v</span><br><span class="line">npm -v</span><br></pre></td></tr></table></figure><p>正常显示版本号，无报错即为安装成功。</p><h3 id="然后我们就可安装hexo了"><a href="#然后我们就可安装hexo了" class="headerlink" title="然后我们就可安装hexo了"></a>然后我们就可安装hexo了</h3><p>右键打开Git Bash，输入命令：</p><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure><p>检查是否安装成功：</p><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo -v</span><br></pre></td></tr></table></figure><h3 id="本地搭建博客"><a href="#本地搭建博客" class="headerlink" title="本地搭建博客"></a>本地搭建博客</h3><p>在电脑上新建一个专门用来存放你的博客的文件夹，如 <strong>F:\GitHubblog</strong></p><p>在该文件夹下 <strong>右键-git bash here</strong></p><figure class="highlight kotlin"><table><tr><td class="code"><pre><span class="line">hexo <span class="keyword">init</span>  <span class="comment">//在本地生成hexo模板</span></span><br></pre></td></tr></table></figure><h3 id="你可以看看模板了"><a href="#你可以看看模板了" class="headerlink" title="你可以看看模板了"></a>你可以看看模板了</h3><p>Git Bash执行以下命令：</p><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo -g</span><br><span class="line">hexo server</span><br></pre></td></tr></table></figure><p>启动hexo服务，访问<a href="http://localhost:4000/">http://localhost:4000</a>即可看到生成的博客页面。使用Ctrl+C可关闭本地服务。</p><p><a href="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/20210219193523.png"><img src="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/20210219193523.png" alt="img"></a></p><hr><p>现在我们已经成功一大截了。之后就是把博客放到github上面去。</p><p>下面会有一点难度。注意看哟</p><h3 id="在GitHub上创建个人仓库"><a href="#在GitHub上创建个人仓库" class="headerlink" title="在GitHub上创建个人仓库"></a>在<a href="https://github.com/">GitHub</a>上创建个人仓库</h3><p>注册账号省略了。</p><p>注册完之后，你要创建一个仓库。就是下图这个。</p><p><a href="https://imgtu.com/i/guQzsx"><img src="https://z3.ax1x.com/2021/05/04/guQzsx.png" alt="guQzsx.png"></a></p><p>注册仓库的时候要注意<strong>仓库名必须是</strong>：用户名.github.io。比如我的用户名是xqyr。那么我的仓库名就是xqyr.github.io</p><p>其他的默认就好</p><p><a href="https://imgtu.com/i/gulawT"><img src="https://z3.ax1x.com/2021/05/04/gulawT.md.png" alt="gulawT.md.png"></a></p><h3 id="配置SSH"><a href="#配置SSH" class="headerlink" title="配置SSH"></a>配置SSH</h3><p>之后就是让你的电脑知道你要把你的博客传到哪里去。方法就是配置SSH</p><p>打开Git Bash，输入以下命令，生成本地密钥。这里用户名和邮箱仅作演示，用户名为你Github的用户名，邮箱为你Github的邮箱。</p><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git config --global user.name &quot;muzihuaner&quot;</span><br><span class="line">git config --global user.email &quot;xxxxxx@qq.com&quot;</span><br></pre></td></tr></table></figure><p>输入以下命令，检查输入是否正确：</p><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git config user.name</span><br><span class="line">git config user.email</span><br></pre></td></tr></table></figure><p>确认无误后，输入以下命令，创建SSH：</p><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">ssh-keygen -t rsa -C &quot;youremail&quot;</span><br></pre></td></tr></table></figure><p>无脑下一步即可</p><p>此时在用户文件夹下，已经生成了.ssh文件夹，在本地找到这个文件夹。</p><p><a href="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/20210219195310.png"><img src="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/20210219195310.png" alt="img"></a></p><p><code>id_rsa</code>是你这台电脑的私人秘钥，<code>id_rsa.pub</code>是公共秘钥。把公钥放在GitHub上，当你连接自己的Github账号时，它就会根据公钥匹配你的私钥，当能够相互匹配时，才能够顺利的通过Git上传你的文件到GitHub上。</p><p>在Github的设置中，找到<code>SSH and GPG keys</code>，新建SSH Key，以文本方式打开<code>id_rsa.pub</code>文件，将内容复制到Key，标题随便起，添加Key。</p><p><a href="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/20210219195433.png"><img src="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/20210219195433.png" alt="img"></a></p><p>现在我们相当于把钥匙做好了。我把做好的钥匙给hexo</p><h3 id="部署代码到Github"><a href="#部署代码到Github" class="headerlink" title="部署代码到Github"></a>部署代码到Github</h3><p>打开本地博客文件夹配置文件<code>_config.yml</code>，拉到最底部，找到deploy字段，按如下格式修改其内容：</p><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  type: git</span><br><span class="line">  repository: git@github.com:muzihuaner&#x2F;muzihuaner.github.io.git</span><br><span class="line">  branch: main</span><br><span class="line">Copy</span><br></pre></td></tr></table></figure><p>其中repo字段可在Github获取：</p><p><a href="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/image-20210219195740908.png"><img src="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/image-20210219195740908.png" alt="image-20210219195740908"></a></p><p>回到Git Bash，安装deploy-git ，用于使用命令部署到Github。</p><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure><p>然后执行：</p><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo clean&#x2F;&#x2F;可省略</span><br><span class="line">hexo generate</span><br><span class="line">hexo deploy</span><br></pre></td></tr></table></figure><p>出现下图所示说明部署成功，此时代码已同步至Github。</p><p><a href="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/image-20210219201138121.png"><img src="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/image-20210219201138121.png" alt="image-20210219201138121"></a></p><p><a href="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/image-20210219201138121.png">image-20210219201138121</a></p><p><a href="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/image-20210219201209648.png"><img src="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/image-20210219201209648.png" alt="image-20210219201209648"></a></p><p>大功告成。现在你可以在网上看到你的博客网站了。打开网址<a href="http://yourname.github.io/">http://yourname.github.io</a>就可以看到Hexo博客了。</p><p>下次我们来聊聊怎么绑定免费域名，如何配置网页主题，怎么写博客，传上去。</p><p>最后欢迎大家进我的博客<a href="https://xqyr.ml看看./">https://xqyr.ml看看。</a></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\main\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\main\assets\js\APlayer.m</summary>
       
     
     
     
-    <category term="电脑" scheme="http://example.com/categories/%E7%94%B5%E8%84%91/"/>
+    <category term="电脑" scheme="https://xqyr.github.io/main/categories/%E7%94%B5%E8%84%91/"/>
     
     
-    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="博客" scheme="https://xqyr.github.io/main/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
   <entry>
     <title>汽油机燃油系统</title>
-    <link href="http://example.com/2021/05/03/%E5%8F%91%E5%8A%A8%E6%9C%BA%E7%87%83%E6%B2%B9%E7%B3%BB%E7%BB%9F/"/>
-    <id>http://example.com/2021/05/03/%E5%8F%91%E5%8A%A8%E6%9C%BA%E7%87%83%E6%B2%B9%E7%B3%BB%E7%BB%9F/</id>
+    <link href="https://xqyr.github.io/main/2021/05/03/%E5%8F%91%E5%8A%A8%E6%9C%BA%E7%87%83%E6%B2%B9%E7%B3%BB%E7%BB%9F/"/>
+    <id>https://xqyr.github.io/main/2021/05/03/%E5%8F%91%E5%8A%A8%E6%9C%BA%E7%87%83%E6%B2%B9%E7%B3%BB%E7%BB%9F/</id>
     <published>2021-05-03T09:20:01.000Z</published>
-    <updated>2021-05-04T13:22:35.823Z</updated>
+    <updated>2021-05-07T05:56:12.658Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="汽油"><a href="#汽油" class="headerlink" title="汽油"></a>汽油</h2><p>汽油燃烧不完全会产生CO和氢化物。</p><p>良好的蒸发性</p><p>高抗爆性：辛烷值越高抗爆性越好</p><h2 id="燃油系统的作用和组成"><a href="#燃油系统的作用和组成" class="headerlink" title="燃油系统的作用和组成"></a>燃油系统的作用和组成</h2><p>组成：油箱，电动燃油泵，燃油滤清器，燃油分配管，燃油压力调节器，喷油器（雾化汽油）</p><h3 id="可燃混合气成分要求"><a href="#可燃混合气成分要求" class="headerlink" title="可燃混合气成分要求"></a>可燃混合气成分要求</h3><p>空燃比α：空气质量与燃油的比例（理论混合气α=14.8）</p><p>过量空气系数<a href="https://imgtu.com/i/gnCqk8"><img src="https://z3.ax1x.com/2021/05/04/gnCqk8.png" alt="gnCqk8.png"></a>：燃烧1kg燃油实际空气质量/完全…化学计量空气质量</p><p>混合气<a href="https://imgtu.com/i/gnCqk8"><img src="https://z3.ax1x.com/2021/05/04/gnCqk8.png" alt="gnCqk8.png"></a>=1.05-1.15为经济混合气</p><p>=0，85-0.95，为功率混合气</p><p>=0.4-0.5或者1.3-1.4不能着火燃烧。分别为传播上限和传播下线</p><h4 id="各种工况下的混合气成分"><a href="#各种工况下的混合气成分" class="headerlink" title="各种工况下的混合气成分"></a>各种工况下的混合气成分</h4><p>冷启动：0.2-0.6浓混合气</p><p>怠速：0.6-0.8</p><p>小负荷：比怠速稍稀，0.7-0.9</p><p>中等负荷：经济混合气</p><p>大和全负荷：0.85-0.95</p><h2 id="辅助装置"><a href="#辅助装置" class="headerlink" title="辅助装置"></a>辅助装置</h2><p>汽油箱</p><p>汽油滤清器</p><p>汽油泵</p><h2 id="电子控制汽油喷射系统"><a href="#电子控制汽油喷射系统" class="headerlink" title="电子控制汽油喷射系统"></a>电子控制汽油喷射系统</h2>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\main\assets\css\APlayer.min.css"><script src="\main\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\main\assets\js\Meting.min.js"></script><h2 id="汽油"><a href="#汽油" class="headerlink" title="汽油"></a>汽油</h2><p>汽油燃烧不完全会产生CO和氢化物。</p><p>良好的蒸发性</p><p>高抗爆性：辛烷值越高抗爆性越好</p><h2 id="燃油系统的作用和组成"><a href="#燃油系统的作用和组成" class="headerlink" title="燃油系统的作用和组成"></a>燃油系统的作用和组成</h2><p>组成：油箱，电动燃油泵，燃油滤清器，燃油分配管，燃油压力调节器，喷油器（雾化汽油）</p><h3 id="可燃混合气成分要求"><a href="#可燃混合气成分要求" class="headerlink" title="可燃混合气成分要求"></a>可燃混合气成分要求</h3><p>空燃比α：空气质量与燃油的比例（理论混合气α=14.8）</p><p>过量空气系数<a href="https://imgtu.com/i/gnCqk8"><img src="https://z3.ax1x.com/2021/05/04/gnCqk8.png" alt="gnCqk8.png"></a>：燃烧1kg燃油实际空气质量/完全…化学计量空气质量</p><p>混合气<a href="https://imgtu.com/i/gnCqk8"><img src="https://z3.ax1x.com/2021/05/04/gnCqk8.png" alt="gnCqk8.png"></a>=1.05-1.15为经济混合气</p><p>=0，85-0.95，为功率混合气</p><p>=0.4-0.5或者1.3-1.4不能着火燃烧。分别为传播上限和传播下线</p><h4 id="各种工况下的混合气成分"><a href="#各种工况下的混合气成分" class="headerlink" title="各种工况下的混合气成分"></a>各种工况下的混合气成分</h4><p>冷启动：0.2-0.6浓混合气</p><p>怠速：0.6-0.8</p><p>小负荷：比怠速稍稀，0.7-0.9</p><p>中等负荷：经济混合气</p><p>大和全负荷：0.85-0.95</p><h2 id="辅助装置"><a href="#辅助装置" class="headerlink" title="辅助装置"></a>辅助装置</h2><p>汽油箱</p><p>汽油滤清器</p><p>汽油泵</p><h2 id="电子控制汽油喷射系统"><a href="#电子控制汽油喷射系统" class="headerlink" title="电子控制汽油喷射系统"></a>电子控制汽油喷射系统</h2>]]></content>
     
     
       
       
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\main\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\main\assets\js\APlayer.m</summary>
       
     
     
     
-    <category term="大学知识整理" scheme="http://example.com/categories/%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/"/>
+    <category term="大学知识整理" scheme="https://xqyr.github.io/main/categories/%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/"/>
     
-    <category term="汽车构造" scheme="http://example.com/categories/%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0/"/>
+    <category term="汽车构造" scheme="https://xqyr.github.io/main/categories/%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0/"/>
     
     
-    <category term="发动机" scheme="http://example.com/tags/%E5%8F%91%E5%8A%A8%E6%9C%BA/"/>
+    <category term="发动机" scheme="https://xqyr.github.io/main/tags/%E5%8F%91%E5%8A%A8%E6%9C%BA/"/>
     
   </entry>
   
   <entry>
     <title>自己做软件</title>
-    <link href="http://example.com/2021/05/02/%E8%87%AA%E5%B7%B1%E5%81%9A%E8%BD%AF%E4%BB%B6/"/>
-    <id>http://example.com/2021/05/02/%E8%87%AA%E5%B7%B1%E5%81%9A%E8%BD%AF%E4%BB%B6/</id>
+    <link href="https://xqyr.github.io/main/2021/05/02/%E8%87%AA%E5%B7%B1%E5%81%9A%E8%BD%AF%E4%BB%B6/"/>
+    <id>https://xqyr.github.io/main/2021/05/02/%E8%87%AA%E5%B7%B1%E5%81%9A%E8%BD%AF%E4%BB%B6/</id>
     <published>2021-05-02T13:03:53.000Z</published>
     <updated>2021-05-03T06:38:34.929Z</updated>
     
@@ -83,17 +83,17 @@
     
     
     
-    <category term="手机" scheme="http://example.com/categories/%E6%89%8B%E6%9C%BA/"/>
+    <category term="手机" scheme="https://xqyr.github.io/main/categories/%E6%89%8B%E6%9C%BA/"/>
     
     
-    <category term="fusion" scheme="http://example.com/tags/fusion/"/>
+    <category term="fusion" scheme="https://xqyr.github.io/main/tags/fusion/"/>
     
   </entry>
   
   <entry>
     <title>第五章 爬山</title>
-    <link href="http://example.com/2021/05/01/%E7%AC%AC%E4%BA%94%E7%AB%A0/"/>
-    <id>http://example.com/2021/05/01/%E7%AC%AC%E4%BA%94%E7%AB%A0/</id>
+    <link href="https://xqyr.github.io/main/2021/05/01/%E7%AC%AC%E4%BA%94%E7%AB%A0/"/>
+    <id>https://xqyr.github.io/main/2021/05/01/%E7%AC%AC%E4%BA%94%E7%AB%A0/</id>
     <published>2021-05-01T14:50:10.000Z</published>
     <updated>2021-05-01T14:55:05.225Z</updated>
     
@@ -107,17 +107,17 @@
     
     
     
-    <category term="小说" scheme="http://example.com/categories/%E5%B0%8F%E8%AF%B4/"/>
+    <category term="小说" scheme="https://xqyr.github.io/main/categories/%E5%B0%8F%E8%AF%B4/"/>
     
     
-    <category term="造就地狱" scheme="http://example.com/tags/%E9%80%A0%E5%B0%B1%E5%9C%B0%E7%8B%B1/"/>
+    <category term="造就地狱" scheme="https://xqyr.github.io/main/tags/%E9%80%A0%E5%B0%B1%E5%9C%B0%E7%8B%B1/"/>
     
   </entry>
   
   <entry>
     <title>第四章 一场梦</title>
-    <link href="http://example.com/2021/05/01/%E7%AC%AC%E5%9B%9B%E7%AB%A0/"/>
-    <id>http://example.com/2021/05/01/%E7%AC%AC%E5%9B%9B%E7%AB%A0/</id>
+    <link href="https://xqyr.github.io/main/2021/05/01/%E7%AC%AC%E5%9B%9B%E7%AB%A0/"/>
+    <id>https://xqyr.github.io/main/2021/05/01/%E7%AC%AC%E5%9B%9B%E7%AB%A0/</id>
     <published>2021-05-01T14:49:50.000Z</published>
     <updated>2021-05-01T14:55:14.347Z</updated>
     
@@ -131,17 +131,17 @@
     
     
     
-    <category term="小说" scheme="http://example.com/categories/%E5%B0%8F%E8%AF%B4/"/>
+    <category term="小说" scheme="https://xqyr.github.io/main/categories/%E5%B0%8F%E8%AF%B4/"/>
     
     
-    <category term="造就地狱" scheme="http://example.com/tags/%E9%80%A0%E5%B0%B1%E5%9C%B0%E7%8B%B1/"/>
+    <category term="造就地狱" scheme="https://xqyr.github.io/main/tags/%E9%80%A0%E5%B0%B1%E5%9C%B0%E7%8B%B1/"/>
     
   </entry>
   
   <entry>
     <title>第三章 相遇</title>
-    <link href="http://example.com/2021/05/01/%E7%AC%AC%E4%B8%89%E7%AB%A0/"/>
-    <id>http://example.com/2021/05/01/%E7%AC%AC%E4%B8%89%E7%AB%A0/</id>
+    <link href="https://xqyr.github.io/main/2021/05/01/%E7%AC%AC%E4%B8%89%E7%AB%A0/"/>
+    <id>https://xqyr.github.io/main/2021/05/01/%E7%AC%AC%E4%B8%89%E7%AB%A0/</id>
     <published>2021-05-01T14:49:27.000Z</published>
     <updated>2021-05-01T14:55:12.835Z</updated>
     
@@ -155,43 +155,43 @@
     
     
     
-    <category term="小说" scheme="http://example.com/categories/%E5%B0%8F%E8%AF%B4/"/>
+    <category term="小说" scheme="https://xqyr.github.io/main/categories/%E5%B0%8F%E8%AF%B4/"/>
     
     
-    <category term="造就地狱" scheme="http://example.com/tags/%E9%80%A0%E5%B0%B1%E5%9C%B0%E7%8B%B1/"/>
+    <category term="造就地狱" scheme="https://xqyr.github.io/main/tags/%E9%80%A0%E5%B0%B1%E5%9C%B0%E7%8B%B1/"/>
     
   </entry>
   
   <entry>
     <title>配气机构</title>
-    <link href="http://example.com/2021/05/01/%E9%85%8D%E6%B0%94%E6%9C%BA%E6%9E%84/"/>
-    <id>http://example.com/2021/05/01/%E9%85%8D%E6%B0%94%E6%9C%BA%E6%9E%84/</id>
+    <link href="https://xqyr.github.io/main/2021/05/01/%E9%85%8D%E6%B0%94%E6%9C%BA%E6%9E%84/"/>
+    <id>https://xqyr.github.io/main/2021/05/01/%E9%85%8D%E6%B0%94%E6%9C%BA%E6%9E%84/</id>
     <published>2021-05-01T10:13:51.000Z</published>
-    <updated>2021-05-03T09:18:18.012Z</updated>
+    <updated>2021-05-07T05:55:33.649Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="配气机构"><a href="#配气机构" class="headerlink" title="配气机构"></a>配气机构</h1><h2 id="配气机构的组成和作用"><a href="#配气机构的组成和作用" class="headerlink" title="配气机构的组成和作用"></a>配气机构的组成和作用</h2><p><a href="https://imgtu.com/i/gVqqMQ"><img src="https://z3.ax1x.com/2021/05/01/gVqqMQ.md.png" alt="gVqqMQ.md.png"></a></p><p>气门式配气机构</p><p><strong>组成：气门组和气门传动组</strong></p><p>作用：定时开关进气门和排气门</p><p> 种类：</p><ul><li><p>凸轮轴下置式配气机构</p></li><li><p>凸轮轴中置式配气机构</p></li><li><p>凸轮轴上置式配气机构（OHC）</p><p>优点：运动件少，传动链短。常用于高速发动机。</p></li></ul><h2 id="配气定时和气门间隙"><a href="#配气定时和气门间隙" class="headerlink" title="配气定时和气门间隙"></a>配气定时和气门间隙</h2><h3 id="配气定时"><a href="#配气定时" class="headerlink" title="配气定时"></a><strong>配气定时</strong></h3><p>以曲轴转角表示的进排气门开闭时刻及其开启的持续时间称作配气定时</p><p>进气提前角α，进气迟后角β</p><p>排气提前角γ，排气迟后角δ</p><p><a href="https://imgtu.com/i/gmpF54"><img src="https://z3.ax1x.com/2021/05/03/gmpF54.png" alt="gmpF54.png"></a></p><p>气门重叠角：α+δ</p><h3 id="可变配气定时机构"><a href="#可变配气定时机构" class="headerlink" title="可变配气定时机构"></a>可变配气定时机构</h3><p>组成：可变配气定时器，凸轮轴位置传感器，曲轴位置传感器，机油控制阀和动力系统控制模块（p84）</p><p>在高速时加大进气迟后角，气门重叠角相应减少。</p><p>更先进的类型本田VTEC</p><h2 id="气门组"><a href="#气门组" class="headerlink" title="气门组"></a>气门组</h2><h3 id="气门"><a href="#气门" class="headerlink" title="气门"></a>气门</h3><p>进气门比排气门大</p><h2 id="气门传动组"><a href="#气门传动组" class="headerlink" title="气门传动组"></a>气门传动组</h2><p>组成：凸轮轴，挺柱，推杆，摇臂</p><p><a href="https://imgtu.com/i/gmKYSP"><img src="https://z3.ax1x.com/2021/05/03/gmKYSP.png" alt="gmKYSP.png"></a></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\main\assets\css\APlayer.min.css"><script src="\main\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\main\assets\js\Meting.min.js"></script><h1 id="配气机构"><a href="#配气机构" class="headerlink" title="配气机构"></a>配气机构</h1><h2 id="配气机构的组成和作用"><a href="#配气机构的组成和作用" class="headerlink" title="配气机构的组成和作用"></a>配气机构的组成和作用</h2><p><a href="https://imgtu.com/i/gVqqMQ"><img src="https://z3.ax1x.com/2021/05/01/gVqqMQ.md.png" alt="gVqqMQ.md.png"></a></p><p>气门式配气机构</p><p><strong>组成：气门组和气门传动组</strong></p><p>作用：定时开关进气门和排气门</p><p> 种类：</p><ul><li><p>凸轮轴下置式配气机构</p></li><li><p>凸轮轴中置式配气机构</p></li><li><p>凸轮轴上置式配气机构（OHC）</p><p>优点：运动件少，传动链短。常用于高速发动机。</p></li></ul><h2 id="配气定时和气门间隙"><a href="#配气定时和气门间隙" class="headerlink" title="配气定时和气门间隙"></a>配气定时和气门间隙</h2><h3 id="配气定时"><a href="#配气定时" class="headerlink" title="配气定时"></a><strong>配气定时</strong></h3><p>以曲轴转角表示的进排气门开闭时刻及其开启的持续时间称作配气定时</p><p>进气提前角α，进气迟后角β</p><p>排气提前角γ，排气迟后角δ</p><p><a href="https://imgtu.com/i/gmpF54"><img src="https://z3.ax1x.com/2021/05/03/gmpF54.png" alt="gmpF54.png"></a></p><p>气门重叠角：α+δ</p><h3 id="可变配气定时机构"><a href="#可变配气定时机构" class="headerlink" title="可变配气定时机构"></a>可变配气定时机构</h3><p>组成：可变配气定时器，凸轮轴位置传感器，曲轴位置传感器，机油控制阀和动力系统控制模块（p84）</p><p>在高速时加大进气迟后角，气门重叠角相应减少。</p><p>更先进的类型本田VTEC</p><h2 id="气门组"><a href="#气门组" class="headerlink" title="气门组"></a>气门组</h2><h3 id="气门"><a href="#气门" class="headerlink" title="气门"></a>气门</h3><p>进气门比排气门大</p><h2 id="气门传动组"><a href="#气门传动组" class="headerlink" title="气门传动组"></a>气门传动组</h2><p>组成：凸轮轴，挺柱，推杆，摇臂</p><p><a href="https://imgtu.com/i/gmKYSP"><img src="https://z3.ax1x.com/2021/05/03/gmKYSP.png" alt="gmKYSP.png"></a></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\main\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\main\assets\js\APlayer.m</summary>
       
     
     
     
-    <category term="大学知识整理" scheme="http://example.com/categories/%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/"/>
+    <category term="大学知识整理" scheme="https://xqyr.github.io/main/categories/%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/"/>
     
-    <category term="汽车构造" scheme="http://example.com/categories/%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0/"/>
+    <category term="汽车构造" scheme="https://xqyr.github.io/main/categories/%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0/"/>
     
     
-    <category term="null发动机" scheme="http://example.com/tags/null%E5%8F%91%E5%8A%A8%E6%9C%BA/"/>
+    <category term="发动机" scheme="https://xqyr.github.io/main/tags/%E5%8F%91%E5%8A%A8%E6%9C%BA/"/>
     
   </entry>
   
   <entry>
     <title>曲柄连杆机构</title>
-    <link href="http://example.com/2021/04/19/%E6%9B%B2%E6%9F%84%E8%BF%9E%E6%9D%86%E6%9C%BA%E6%9E%84/"/>
-    <id>http://example.com/2021/04/19/%E6%9B%B2%E6%9F%84%E8%BF%9E%E6%9D%86%E6%9C%BA%E6%9E%84/</id>
+    <link href="https://xqyr.github.io/main/2021/04/19/%E6%9B%B2%E6%9F%84%E8%BF%9E%E6%9D%86%E6%9C%BA%E6%9E%84/"/>
+    <id>https://xqyr.github.io/main/2021/04/19/%E6%9B%B2%E6%9F%84%E8%BF%9E%E6%9D%86%E6%9C%BA%E6%9E%84/</id>
     <published>2021-04-19T10:17:22.000Z</published>
     <updated>2021-05-03T08:53:27.601Z</updated>
     
@@ -205,21 +205,21 @@
     
     
     
-    <category term="大学知识整理" scheme="http://example.com/categories/%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/"/>
+    <category term="大学知识整理" scheme="https://xqyr.github.io/main/categories/%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/"/>
     
-    <category term="汽车构造" scheme="http://example.com/categories/%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0/"/>
+    <category term="汽车构造" scheme="https://xqyr.github.io/main/categories/%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0/"/>
     
-    <category term="曲柄连杆机构" scheme="http://example.com/categories/%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0/%E6%9B%B2%E6%9F%84%E8%BF%9E%E6%9D%86%E6%9C%BA%E6%9E%84/"/>
+    <category term="曲柄连杆机构" scheme="https://xqyr.github.io/main/categories/%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0/%E6%9B%B2%E6%9F%84%E8%BF%9E%E6%9D%86%E6%9C%BA%E6%9E%84/"/>
     
     
-    <category term="发动机" scheme="http://example.com/tags/%E5%8F%91%E5%8A%A8%E6%9C%BA/"/>
+    <category term="发动机" scheme="https://xqyr.github.io/main/tags/%E5%8F%91%E5%8A%A8%E6%9C%BA/"/>
     
   </entry>
   
   <entry>
     <title>机械设计-连接-螺纹</title>
-    <link href="http://example.com/2021/04/15/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1-%E8%BF%9E%E6%8E%A5-%E8%9E%BA%E7%BA%B9/"/>
-    <id>http://example.com/2021/04/15/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1-%E8%BF%9E%E6%8E%A5-%E8%9E%BA%E7%BA%B9/</id>
+    <link href="https://xqyr.github.io/main/2021/04/15/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1-%E8%BF%9E%E6%8E%A5-%E8%9E%BA%E7%BA%B9/"/>
+    <id>https://xqyr.github.io/main/2021/04/15/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1-%E8%BF%9E%E6%8E%A5-%E8%9E%BA%E7%BA%B9/</id>
     <published>2021-04-15T08:37:32.000Z</published>
     <updated>2021-04-22T14:52:22.082Z</updated>
     
@@ -233,21 +233,21 @@
     
     
     
-    <category term="大学知识整理" scheme="http://example.com/categories/%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/"/>
+    <category term="大学知识整理" scheme="https://xqyr.github.io/main/categories/%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/"/>
     
-    <category term="机械设计" scheme="http://example.com/categories/%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1/"/>
+    <category term="机械设计" scheme="https://xqyr.github.io/main/categories/%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1/"/>
     
-    <category term="连接" scheme="http://example.com/categories/%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1/%E8%BF%9E%E6%8E%A5/"/>
+    <category term="连接" scheme="https://xqyr.github.io/main/categories/%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1/%E8%BF%9E%E6%8E%A5/"/>
     
     
-    <category term="螺纹" scheme="http://example.com/tags/%E8%9E%BA%E7%BA%B9/"/>
+    <category term="螺纹" scheme="https://xqyr.github.io/main/tags/%E8%9E%BA%E7%BA%B9/"/>
     
   </entry>
   
   <entry>
     <title>汽车构造--发动机简述</title>
-    <link href="http://example.com/2021/04/08/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0-%E5%8F%91%E9%80%81%E6%9C%BA%E7%AE%80%E8%BF%B0/"/>
-    <id>http://example.com/2021/04/08/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0-%E5%8F%91%E9%80%81%E6%9C%BA%E7%AE%80%E8%BF%B0/</id>
+    <link href="https://xqyr.github.io/main/2021/04/08/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0-%E5%8F%91%E9%80%81%E6%9C%BA%E7%AE%80%E8%BF%B0/"/>
+    <id>https://xqyr.github.io/main/2021/04/08/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0-%E5%8F%91%E9%80%81%E6%9C%BA%E7%AE%80%E8%BF%B0/</id>
     <published>2021-04-08T11:21:57.000Z</published>
     <updated>2021-04-19T10:16:17.544Z</updated>
     
@@ -258,19 +258,19 @@
     
     
     
-    <category term="大学知识整理" scheme="http://example.com/categories/%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/"/>
+    <category term="大学知识整理" scheme="https://xqyr.github.io/main/categories/%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/"/>
     
-    <category term="汽车构造" scheme="http://example.com/categories/%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0/"/>
+    <category term="汽车构造" scheme="https://xqyr.github.io/main/categories/%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0/"/>
     
     
-    <category term="发动机" scheme="http://example.com/tags/%E5%8F%91%E5%8A%A8%E6%9C%BA/"/>
+    <category term="发动机" scheme="https://xqyr.github.io/main/tags/%E5%8F%91%E5%8A%A8%E6%9C%BA/"/>
     
   </entry>
   
   <entry>
     <title>手机美化</title>
-    <link href="http://example.com/2021/04/07/%E6%89%8B%E6%9C%BA%E7%BE%8E%E5%8C%96/"/>
-    <id>http://example.com/2021/04/07/%E6%89%8B%E6%9C%BA%E7%BE%8E%E5%8C%96/</id>
+    <link href="https://xqyr.github.io/main/2021/04/07/%E6%89%8B%E6%9C%BA%E7%BE%8E%E5%8C%96/"/>
+    <id>https://xqyr.github.io/main/2021/04/07/%E6%89%8B%E6%9C%BA%E7%BE%8E%E5%8C%96/</id>
     <published>2021-04-07T14:25:41.000Z</published>
     <updated>2021-04-15T13:01:09.580Z</updated>
     
@@ -281,19 +281,19 @@
     
     
     
-    <category term="手机电脑" scheme="http://example.com/categories/%E6%89%8B%E6%9C%BA%E7%94%B5%E8%84%91/"/>
+    <category term="手机电脑" scheme="https://xqyr.github.io/main/categories/%E6%89%8B%E6%9C%BA%E7%94%B5%E8%84%91/"/>
     
-    <category term="手机美化" scheme="http://example.com/categories/%E6%89%8B%E6%9C%BA%E7%94%B5%E8%84%91/%E6%89%8B%E6%9C%BA%E7%BE%8E%E5%8C%96/"/>
+    <category term="手机美化" scheme="https://xqyr.github.io/main/categories/%E6%89%8B%E6%9C%BA%E7%94%B5%E8%84%91/%E6%89%8B%E6%9C%BA%E7%BE%8E%E5%8C%96/"/>
     
     
-    <category term="手机美化" scheme="http://example.com/tags/%E6%89%8B%E6%9C%BA%E7%BE%8E%E5%8C%96/"/>
+    <category term="手机美化" scheme="https://xqyr.github.io/main/tags/%E6%89%8B%E6%9C%BA%E7%BE%8E%E5%8C%96/"/>
     
   </entry>
   
   <entry>
     <title>第二章 离家出走</title>
-    <link href="http://example.com/2021/04/07/%E7%AC%AC%E4%BA%8C%E7%AB%A0%E7%A6%BB%E5%AE%B6%E5%87%BA%E8%B5%B0/"/>
-    <id>http://example.com/2021/04/07/%E7%AC%AC%E4%BA%8C%E7%AB%A0%E7%A6%BB%E5%AE%B6%E5%87%BA%E8%B5%B0/</id>
+    <link href="https://xqyr.github.io/main/2021/04/07/%E7%AC%AC%E4%BA%8C%E7%AB%A0%E7%A6%BB%E5%AE%B6%E5%87%BA%E8%B5%B0/"/>
+    <id>https://xqyr.github.io/main/2021/04/07/%E7%AC%AC%E4%BA%8C%E7%AB%A0%E7%A6%BB%E5%AE%B6%E5%87%BA%E8%B5%B0/</id>
     <published>2021-04-07T14:15:11.000Z</published>
     <updated>2021-05-01T14:55:07.140Z</updated>
     
@@ -307,17 +307,17 @@
     
     
     
-    <category term="小说" scheme="http://example.com/categories/%E5%B0%8F%E8%AF%B4/"/>
+    <category term="小说" scheme="https://xqyr.github.io/main/categories/%E5%B0%8F%E8%AF%B4/"/>
     
     
-    <category term="造就地狱" scheme="http://example.com/tags/%E9%80%A0%E5%B0%B1%E5%9C%B0%E7%8B%B1/"/>
+    <category term="造就地狱" scheme="https://xqyr.github.io/main/tags/%E9%80%A0%E5%B0%B1%E5%9C%B0%E7%8B%B1/"/>
     
   </entry>
   
   <entry>
     <title>将夜给了我一巴掌，让我感觉很爽</title>
-    <link href="http://example.com/2021/04/04/%E5%B0%86%E5%A4%9C%E7%BB%99%E4%BA%86%E6%88%91%E4%B8%80%E5%B7%B4%E6%8E%8C%EF%BC%8C%E8%AE%A9%E6%88%91%E6%84%9F%E8%A7%89%E5%BE%88%E7%88%BD/"/>
-    <id>http://example.com/2021/04/04/%E5%B0%86%E5%A4%9C%E7%BB%99%E4%BA%86%E6%88%91%E4%B8%80%E5%B7%B4%E6%8E%8C%EF%BC%8C%E8%AE%A9%E6%88%91%E6%84%9F%E8%A7%89%E5%BE%88%E7%88%BD/</id>
+    <link href="https://xqyr.github.io/main/2021/04/04/%E5%B0%86%E5%A4%9C%E7%BB%99%E4%BA%86%E6%88%91%E4%B8%80%E5%B7%B4%E6%8E%8C%EF%BC%8C%E8%AE%A9%E6%88%91%E6%84%9F%E8%A7%89%E5%BE%88%E7%88%BD/"/>
+    <id>https://xqyr.github.io/main/2021/04/04/%E5%B0%86%E5%A4%9C%E7%BB%99%E4%BA%86%E6%88%91%E4%B8%80%E5%B7%B4%E6%8E%8C%EF%BC%8C%E8%AE%A9%E6%88%91%E6%84%9F%E8%A7%89%E5%BE%88%E7%88%BD/</id>
     <published>2021-04-04T15:54:03.000Z</published>
     <updated>2021-04-12T15:18:57.214Z</updated>
     
@@ -328,17 +328,17 @@
     
     
     
-    <category term="读后感" scheme="http://example.com/categories/%E8%AF%BB%E5%90%8E%E6%84%9F/"/>
+    <category term="读后感" scheme="https://xqyr.github.io/main/categories/%E8%AF%BB%E5%90%8E%E6%84%9F/"/>
     
     
-    <category term="将夜" scheme="http://example.com/tags/%E5%B0%86%E5%A4%9C/"/>
+    <category term="将夜" scheme="https://xqyr.github.io/main/tags/%E5%B0%86%E5%A4%9C/"/>
     
   </entry>
   
   <entry>
     <title>第一章 祖灵山上有婴儿</title>
-    <link href="http://example.com/2021/04/04/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%A5%96%E7%81%B5%E5%B1%B1%E4%B8%8A%E6%9C%89%E5%A9%B4%E5%84%BF/"/>
-    <id>http://example.com/2021/04/04/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%A5%96%E7%81%B5%E5%B1%B1%E4%B8%8A%E6%9C%89%E5%A9%B4%E5%84%BF/</id>
+    <link href="https://xqyr.github.io/main/2021/04/04/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%A5%96%E7%81%B5%E5%B1%B1%E4%B8%8A%E6%9C%89%E5%A9%B4%E5%84%BF/"/>
+    <id>https://xqyr.github.io/main/2021/04/04/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%A5%96%E7%81%B5%E5%B1%B1%E4%B8%8A%E6%9C%89%E5%A9%B4%E5%84%BF/</id>
     <published>2021-04-04T09:32:43.000Z</published>
     <updated>2021-05-01T14:55:12.087Z</updated>
     
@@ -350,17 +350,17 @@
     
     
     
-    <category term="小说" scheme="http://example.com/categories/%E5%B0%8F%E8%AF%B4/"/>
+    <category term="小说" scheme="https://xqyr.github.io/main/categories/%E5%B0%8F%E8%AF%B4/"/>
     
     
-    <category term="造就地狱" scheme="http://example.com/tags/%E9%80%A0%E5%B0%B1%E5%9C%B0%E7%8B%B1/"/>
+    <category term="造就地狱" scheme="https://xqyr.github.io/main/tags/%E9%80%A0%E5%B0%B1%E5%9C%B0%E7%8B%B1/"/>
     
   </entry>
   
   <entry>
     <title>前言：我会踏破虚空</title>
-    <link href="http://example.com/2021/04/04/%E5%89%8D%E8%A8%80%EF%BC%9A%E6%88%91%E4%BC%9A%E8%B8%8F%E7%A0%B4%E8%99%9A%E7%A9%BA/"/>
-    <id>http://example.com/2021/04/04/%E5%89%8D%E8%A8%80%EF%BC%9A%E6%88%91%E4%BC%9A%E8%B8%8F%E7%A0%B4%E8%99%9A%E7%A9%BA/</id>
+    <link href="https://xqyr.github.io/main/2021/04/04/%E5%89%8D%E8%A8%80%EF%BC%9A%E6%88%91%E4%BC%9A%E8%B8%8F%E7%A0%B4%E8%99%9A%E7%A9%BA/"/>
+    <id>https://xqyr.github.io/main/2021/04/04/%E5%89%8D%E8%A8%80%EF%BC%9A%E6%88%91%E4%BC%9A%E8%B8%8F%E7%A0%B4%E8%99%9A%E7%A9%BA/</id>
     <published>2021-04-04T08:54:37.000Z</published>
     <updated>2021-04-15T12:58:47.667Z</updated>
     
@@ -373,12 +373,12 @@
     
     
     
-    <category term="小说" scheme="http://example.com/categories/%E5%B0%8F%E8%AF%B4/"/>
+    <category term="小说" scheme="https://xqyr.github.io/main/categories/%E5%B0%8F%E8%AF%B4/"/>
     
-    <category term="造就地狱" scheme="http://example.com/categories/%E5%B0%8F%E8%AF%B4/%E9%80%A0%E5%B0%B1%E5%9C%B0%E7%8B%B1/"/>
+    <category term="造就地狱" scheme="https://xqyr.github.io/main/categories/%E5%B0%8F%E8%AF%B4/%E9%80%A0%E5%B0%B1%E5%9C%B0%E7%8B%B1/"/>
     
     
-    <category term="造就地狱" scheme="http://example.com/tags/%E9%80%A0%E5%B0%B1%E5%9C%B0%E7%8B%B1/"/>
+    <category term="造就地狱" scheme="https://xqyr.github.io/main/tags/%E9%80%A0%E5%B0%B1%E5%9C%B0%E7%8B%B1/"/>
     
   </entry>
   
