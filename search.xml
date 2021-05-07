@@ -1,9 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>汽油机燃油系统</title>
+    <url>/main/2021/05/03/%E5%8F%91%E5%8A%A8%E6%9C%BA%E7%87%83%E6%B2%B9%E7%B3%BB%E7%BB%9F/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\main\assets\css\APlayer.min.css"><script src="\main\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\main\assets\js\Meting.min.js"></script><h2 id="汽油"><a href="#汽油" class="headerlink" title="汽油"></a>汽油</h2><p>汽油燃烧不完全会产生CO和氢化物。</p>
+<p>良好的蒸发性</p>
+<p>高抗爆性：辛烷值越高抗爆性越好</p>
+<h2 id="燃油系统的作用和组成"><a href="#燃油系统的作用和组成" class="headerlink" title="燃油系统的作用和组成"></a>燃油系统的作用和组成</h2><p>组成：油箱，电动燃油泵，燃油滤清器，燃油分配管，燃油压力调节器，喷油器（雾化汽油）</p>
+<h3 id="可燃混合气成分要求"><a href="#可燃混合气成分要求" class="headerlink" title="可燃混合气成分要求"></a>可燃混合气成分要求</h3><p>空燃比α：空气质量与燃油的比例（理论混合气α=14.8）</p>
+<p>过量空气系数<a href="https://imgtu.com/i/gnCqk8"><img src="https://z3.ax1x.com/2021/05/04/gnCqk8.png" alt="gnCqk8.png"></a>：燃烧1kg燃油实际空气质量/完全…化学计量空气质量</p>
+<p>混合气<a href="https://imgtu.com/i/gnCqk8"><img src="https://z3.ax1x.com/2021/05/04/gnCqk8.png" alt="gnCqk8.png"></a>=1.05-1.15为经济混合气</p>
+<p>=0，85-0.95，为功率混合气</p>
+<p>=0.4-0.5或者1.3-1.4不能着火燃烧。分别为传播上限和传播下线</p>
+<h4 id="各种工况下的混合气成分"><a href="#各种工况下的混合气成分" class="headerlink" title="各种工况下的混合气成分"></a>各种工况下的混合气成分</h4><p>冷启动：0.2-0.6浓混合气</p>
+<p>怠速：0.6-0.8</p>
+<p>小负荷：比怠速稍稀，0.7-0.9</p>
+<p>中等负荷：经济混合气</p>
+<p>大和全负荷：0.85-0.95</p>
+<h2 id="辅助装置"><a href="#辅助装置" class="headerlink" title="辅助装置"></a>辅助装置</h2><p>汽油箱</p>
+<p>汽油滤清器</p>
+<p>汽油泵</p>
+<h2 id="电子控制汽油喷射系统"><a href="#电子控制汽油喷射系统" class="headerlink" title="电子控制汽油喷射系统"></a>电子控制汽油喷射系统</h2>]]></content>
+      <categories>
+        <category>大学知识整理</category>
+        <category>汽车构造</category>
+      </categories>
+      <tags>
+        <tag>发动机</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>前言：我会踏破虚空</title>
     <url>/main/2021/04/04/%E5%89%8D%E8%A8%80%EF%BC%9A%E6%88%91%E4%BC%9A%E8%B8%8F%E7%A0%B4%E8%99%9A%E7%A9%BA/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>　　海之磅礴，一望无际。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\main\assets\css\APlayer.min.css"><script src="\main\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\main\assets\js\Meting.min.js"></script><p>　　海之磅礴，一望无际。</p>
 <p> 　在无广阔的大海上，有这样一座小岛。他鲜为人知：一是因为海里生活着可怕的妖兽，只要是陆地上的生物敢踏足这片海域，就会受到疯狂地屠杀。</p>
 <p>　　还有一个更为重要的原因：在岛的周围，有着一千三百三十一根铁柱，他们将小岛围住，并无时无刻的向天空发射着透明的丝线。这一千三百三十一根四线互相缠绕，在小岛上空织成了一张大网。外界的生物往岛的方向看，只会看见一望无际的大海。<span id="more"></span></p>
 <p>　　这一日，小岛的居民聚集在小岛中央城堡的外围。城堡由灰色石砖砌成，屋顶是深蓝色的圆锥，三个圆锥，两旁低，中间高，错落有致，与岛上的土胚房显得格格不入。</p>
@@ -41,31 +70,94 @@
       </tags>
   </entry>
   <entry>
-    <title>将夜给了我一巴掌，让我感觉很爽</title>
-    <url>/main/2021/04/04/%E5%B0%86%E5%A4%9C%E7%BB%99%E4%BA%86%E6%88%91%E4%B8%80%E5%B7%B4%E6%8E%8C%EF%BC%8C%E8%AE%A9%E6%88%91%E6%84%9F%E8%A7%89%E5%BE%88%E7%88%BD/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><img src="https://ae01.alicdn.com/kf/Udd548ab7a4184df9b284879731949119t.jpg"><span id="more"></span></p>
+    <title>小白如何拥有个人博客</title>
+    <url>/main/2021/05/04/%E5%A6%82%E4%BD%95%E6%8B%A5%E6%9C%89%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\main\assets\css\APlayer.min.css"><script src="\main\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\main\assets\js\Meting.min.js"></script><p>我本人完全是小白。都是在网上找教程搭建的。比较简单<br>这是成果<a href="https://xqyr.ml/">小憩悠然</a></p>
+<h2 id="思路"><a href="#思路" class="headerlink" title="思路"></a><strong>思路</strong></h2><p>hexo+github或者其他的hexo+gitee也行。</p>
+<p>但是gitee普通用户需要手动更新。意思就是你传上去的文章，要在gitee pages更新一下，才能在自己的博客网站看到。所以我推荐用GitHub。</p>
+<p>hexo你可以理解为提供一个模板给你，你可以在这个模板上写博客然后转化成网页。</p>
+<p>GitHub就是把你的博客放到网上去</p>
+<h2 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h2><h3 id="第一步骤：安装git"><a href="#第一步骤：安装git" class="headerlink" title="第一步骤：安装git"></a>第一步骤：安装git</h3><p>git用来管理你的Hexo文章，将本地的博客上传至Github。到Git官网选择合适的版本<a href="https://gitforwindows.org/">下载</a>，安装后会有一个Git Bash的命令行工具，之后用该工具操作Git。<a href="https://gitforwindows.org/">下载地址</a></p>
+<p>在桌面右键选择Git Bash Here,输入下面的代码。检查是在否安装成功。正常显示版本号就可以了</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git --version</span><br></pre></td></tr></table></figure>
 
-    <div id="aplayer-HTuFCsQQ" class="aplayer aplayer-tag-marker meting-tag-marker"
-         data-id="3986040" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#555"
-    ></div>
+<h3 id="安装Node-js"><a href="#安装Node-js" class="headerlink" title="安装Node.js"></a>安装Node.js</h3><p>Hexo基于Node.js，所以需要安装Node.js及npm工具。可进入Node.js中文网<a href="http://nodejs.cn/download/">下载</a>，选择LTS（长期支持版本）即可。<a href="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/20210219192314.png">
+  </a></p>
+<p>检查是否安装成功：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">node -v</span><br><span class="line">npm -v</span><br></pre></td></tr></table></figure>
 
-<p>在我高中的时候我把将夜读完了。在读将夜之前，我接触的也是网络小说，对于实体书的阅读回想从识字到高中也没读过几本，也不谈留下深刻印象的了。一个是家里环境，父母都不是爱阅读的人，一个是自己尝试去阅读名著发现很难读下去。还记得一次小学期末，老师奖励了一本《钢铁是怎样炼成的》，就这本书我也用了一个暑假也才翻了个七七八八。<br>虽说将夜是网络小说，但又和在之前我读过的那些小说不一样。这是我刚开始读就认识到了的，之后愈发肯定了。</p>
-<p>认识到将夜的不同，要从知道它开始说起。我说过我对阅读人类公认的世界名著做过尝试，其中就包括看到一个买旧书的小摊便凑过去，看看有没有我听说过的书，买回去看看。看得出这位摊主买的应该大部分都是二手书。可能是人少的缘故，摊主便向我推荐起来，正是宁缺到达都城之后考进书院那一段《朱雀之火》。对于没听说的书我是没什么兴趣的。不过纵观这个由三轮车支起的书摊。既有像四大名著，《月亮与六便士》之类的出版名著，也有我曾经看得津津乐道的网络红文。对于看这些书的老板如此热情推荐的书，我是极感兴趣的。在询问过价格之后，我便买下了。但是回家途中我想是不是老板觉得这本书很少会有人买所以才推荐给我的呢？</p>
-<p>我在此之前是不知道《将夜》这本书的，读它的时候也是将他看作《哑舍》，《龙族》这类高品质的出版小说来读。前文我提到过这本书只是《将夜》的一段，可以说没头没尾。所以初读感到莫名其妙。之后也是发扬了读《钢铁是怎样炼成的》精神。分了几次读完。但是在适应或者说带入到小说中后，就入迷了。后大半段就是一气呵成。<br>将夜文风偏文青，就是闷骚这也使在青春期的我得到了极大的满足。我觉得猫腻就是会写言情文的爽文作家。使我着迷的当然是将夜的爽。爽在骄傲二字，主角设定是三好学生，别人家的孩子穿越，以天下人大多数为废柴的骄傲；以书院为代表的强者骄傲，二师兄君陌高人一等的冠，小师叔没人有资格做我师傅，世间无敌拔剑问天，陈某的一句“柯浩然已死，夫子登天，那么我便只好天下无敌。是真t m的骄傲。唐人的骄傲，不畏死。<br>之后在高中，买了个mp4下完了全本，每日都是将夜伴我入睡。看完之后记不得多少，但看时它给我那种不一样的感觉影响到我，建立我的人格，伴我一生。</p>
-<p>将夜有许多好句子如：那年春，我把桃花切一斤。红墙白雪，要你喜欢。<br>也有好多精妙的剧情如：宁缺和夏侯决斗之前宁缺对众人说，“为什么你们都以为我是将军的儿子？”“我为什么一定要是将军的儿子？”“为什么你们都希望我是将军的儿子？”<br>我最喜欢的还是小说的最后桑桑变成一个抱着猫的贵妇人抱怨的说:“宁缺你骗人！”小说的最后桑桑好多的上天无情，最后这一句极具人情味的话语何其温馨，让我可以安心看完结局了。（最后附上我自己写的一首小诗。）</p>
-<p>书院不器意<br>天下浩然气<br>战夏侯<br>斗观主<br>天道与我是本命<br>梳碧湖畔<br>砍出马贼<br>闻风丧胆<br>书院旧书楼<br>呕尽肝肠断<br>老笔斋鸡汤暖<br>刀，命，符，笔<br>元十三箭<br>我已分离<br>还应相见</p>
+<p>正常显示版本号，无报错即为安装成功。</p>
+<h3 id="然后我们就可安装hexo了"><a href="#然后我们就可安装hexo了" class="headerlink" title="然后我们就可安装hexo了"></a>然后我们就可安装hexo了</h3><p>右键打开Git Bash，输入命令：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure>
+
+<p>检查是否安装成功：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo -v</span><br></pre></td></tr></table></figure>
+
+<h3 id="本地搭建博客"><a href="#本地搭建博客" class="headerlink" title="本地搭建博客"></a>本地搭建博客</h3><p>在电脑上新建一个专门用来存放你的博客的文件夹，如 <strong>F:\GitHubblog</strong></p>
+<p>在该文件夹下 <strong>右键-git bash here</strong></p>
+<figure class="highlight kotlin"><table><tr><td class="code"><pre><span class="line">hexo <span class="keyword">init</span>  <span class="comment">//在本地生成hexo模板</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="你可以看看模板了"><a href="#你可以看看模板了" class="headerlink" title="你可以看看模板了"></a>你可以看看模板了</h3><p>Git Bash执行以下命令：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo -g</span><br><span class="line">hexo server</span><br></pre></td></tr></table></figure>
+
+<p>启动hexo服务，访问<a href="http://localhost:4000/">http://localhost:4000</a>即可看到生成的博客页面。使用Ctrl+C可关闭本地服务。</p>
+<p><a href="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/20210219193523.png"><img src="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/20210219193523.png" alt="img"></a></p>
+<hr>
+<p>现在我们已经成功一大截了。之后就是把博客放到github上面去。</p>
+<p>下面会有一点难度。注意看哟</p>
+<h3 id="在GitHub上创建个人仓库"><a href="#在GitHub上创建个人仓库" class="headerlink" title="在GitHub上创建个人仓库"></a>在<a href="https://github.com/">GitHub</a>上创建个人仓库</h3><p>注册账号省略了。</p>
+<p>注册完之后，你要创建一个仓库。就是下图这个。</p>
+<p><a href="https://imgtu.com/i/guQzsx"><img src="https://z3.ax1x.com/2021/05/04/guQzsx.png" alt="guQzsx.png"></a></p>
+<p>注册仓库的时候要注意<strong>仓库名必须是</strong>：用户名.github.io。比如我的用户名是xqyr。那么我的仓库名就是xqyr.github.io</p>
+<p>其他的默认就好</p>
+<p><a href="https://imgtu.com/i/gulawT"><img src="https://z3.ax1x.com/2021/05/04/gulawT.md.png" alt="gulawT.md.png"></a></p>
+<h3 id="配置SSH"><a href="#配置SSH" class="headerlink" title="配置SSH"></a>配置SSH</h3><p>之后就是让你的电脑知道你要把你的博客传到哪里去。方法就是配置SSH</p>
+<p>打开Git Bash，输入以下命令，生成本地密钥。这里用户名和邮箱仅作演示，用户名为你Github的用户名，邮箱为你Github的邮箱。</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git config --global user.name &quot;muzihuaner&quot;</span><br><span class="line">git config --global user.email &quot;xxxxxx@qq.com&quot;</span><br></pre></td></tr></table></figure>
+
+<p>输入以下命令，检查输入是否正确：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git config user.name</span><br><span class="line">git config user.email</span><br></pre></td></tr></table></figure>
+
+<p>确认无误后，输入以下命令，创建SSH：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">ssh-keygen -t rsa -C &quot;youremail&quot;</span><br></pre></td></tr></table></figure>
+
+<p>无脑下一步即可</p>
+<p>此时在用户文件夹下，已经生成了.ssh文件夹，在本地找到这个文件夹。</p>
+<p><a href="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/20210219195310.png"><img src="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/20210219195310.png" alt="img"></a></p>
+<p><code>id_rsa</code>是你这台电脑的私人秘钥，<code>id_rsa.pub</code>是公共秘钥。把公钥放在GitHub上，当你连接自己的Github账号时，它就会根据公钥匹配你的私钥，当能够相互匹配时，才能够顺利的通过Git上传你的文件到GitHub上。</p>
+<p>在Github的设置中，找到<code>SSH and GPG keys</code>，新建SSH Key，以文本方式打开<code>id_rsa.pub</code>文件，将内容复制到Key，标题随便起，添加Key。</p>
+<p><a href="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/20210219195433.png"><img src="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/20210219195433.png" alt="img"></a></p>
+<p>现在我们相当于把钥匙做好了。我把做好的钥匙给hexo</p>
+<h3 id="部署代码到Github"><a href="#部署代码到Github" class="headerlink" title="部署代码到Github"></a>部署代码到Github</h3><p>打开本地博客文件夹配置文件<code>_config.yml</code>，拉到最底部，找到deploy字段，按如下格式修改其内容：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  type: git</span><br><span class="line">  repository: git@github.com:muzihuaner&#x2F;muzihuaner.github.io.git</span><br><span class="line">  branch: main</span><br><span class="line">Copy</span><br></pre></td></tr></table></figure>
+
+<p>其中repo字段可在Github获取：</p>
+<p><a href="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/image-20210219195740908.png"><img src="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/image-20210219195740908.png" alt="image-20210219195740908"></a></p>
+<p>回到Git Bash，安装deploy-git ，用于使用命令部署到Github。</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure>
+
+<p>然后执行：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo clean	&#x2F;&#x2F;可省略</span><br><span class="line">hexo generate</span><br><span class="line">hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>出现下图所示说明部署成功，此时代码已同步至Github。</p>
+<p><a href="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/image-20210219201138121.png"><img src="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/image-20210219201138121.png" alt="image-20210219201138121"></a></p>
+<p><a href="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/image-20210219201138121.png">image-20210219201138121</a></p>
+<p><a href="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/image-20210219201209648.png"><img src="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/image-20210219201209648.png" alt="image-20210219201209648"></a></p>
+<p>大功告成。现在你可以在网上看到你的博客网站了。打开网址<a href="http://yourname.github.io/">http://yourname.github.io</a>就可以看到Hexo博客了。</p>
+<p>下次我们来聊聊怎么绑定免费域名，如何配置网页主题，怎么写博客，传上去。</p>
+<p>最后欢迎大家进我的博客<a href="https://xqyr.ml看看./">https://xqyr.ml看看。</a></p>
 ]]></content>
       <categories>
-        <category>读后感</category>
+        <category>电脑</category>
       </categories>
       <tags>
-        <tag>将夜</tag>
+        <tag>博客</tag>
       </tags>
   </entry>
   <entry>
     <title>手机美化</title>
     <url>/main/2021/04/07/%E6%89%8B%E6%9C%BA%E7%BE%8E%E5%8C%96/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>手机美化我把它分为两种。有root权限和无root权限。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\main\assets\css\APlayer.min.css"><script src="\main\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\main\assets\js\Meting.min.js"></script><p>手机美化我把它分为两种。有root权限和无root权限。</p>
 <p>因本人使用的小米手机。就以MIUI12.5举例、</p>
 <h2 id="无root美化手机的方法。"><a href="#无root美化手机的方法。" class="headerlink" title="无root美化手机的方法。"></a>无root美化手机的方法。</h2><p>首先我们要知道我们可以通过哪些方面美化手机。</p>
 <h3 id="主题：桌面，图标，插件，状态栏，字体…"><a href="#主题：桌面，图标，插件，状态栏，字体…" class="headerlink" title="主题：桌面，图标，插件，状态栏，字体…"></a>主题：桌面，图标，插件，状态栏，字体…</h3><h3 id="普通版"><a href="#普通版" class="headerlink" title="普通版"></a>普通版</h3><p>上述的也是大家给手机美化时通常想到的。小米手机的主题商店除字体以外，都是<strong>免费</strong>的。所以可以从中选择喜欢的。</p>
@@ -130,9 +222,31 @@
       </tags>
   </entry>
   <entry>
+    <title>将夜给了我一巴掌，让我感觉很爽</title>
+    <url>/main/2021/04/04/%E5%B0%86%E5%A4%9C%E7%BB%99%E4%BA%86%E6%88%91%E4%B8%80%E5%B7%B4%E6%8E%8C%EF%BC%8C%E8%AE%A9%E6%88%91%E6%84%9F%E8%A7%89%E5%BE%88%E7%88%BD/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\main\assets\css\APlayer.min.css"><script src="\main\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\main\assets\js\Meting.min.js"></script><p><img src="https://ae01.alicdn.com/kf/Udd548ab7a4184df9b284879731949119t.jpg"><span id="more"></span></p>
+
+    <div id="aplayer-YujULHPF" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="3986040" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#555"
+    ></div>
+
+<p>在我高中的时候我把将夜读完了。在读将夜之前，我接触的也是网络小说，对于实体书的阅读回想从识字到高中也没读过几本，也不谈留下深刻印象的了。一个是家里环境，父母都不是爱阅读的人，一个是自己尝试去阅读名著发现很难读下去。还记得一次小学期末，老师奖励了一本《钢铁是怎样炼成的》，就这本书我也用了一个暑假也才翻了个七七八八。<br>虽说将夜是网络小说，但又和在之前我读过的那些小说不一样。这是我刚开始读就认识到了的，之后愈发肯定了。</p>
+<p>认识到将夜的不同，要从知道它开始说起。我说过我对阅读人类公认的世界名著做过尝试，其中就包括看到一个买旧书的小摊便凑过去，看看有没有我听说过的书，买回去看看。看得出这位摊主买的应该大部分都是二手书。可能是人少的缘故，摊主便向我推荐起来，正是宁缺到达都城之后考进书院那一段《朱雀之火》。对于没听说的书我是没什么兴趣的。不过纵观这个由三轮车支起的书摊。既有像四大名著，《月亮与六便士》之类的出版名著，也有我曾经看得津津乐道的网络红文。对于看这些书的老板如此热情推荐的书，我是极感兴趣的。在询问过价格之后，我便买下了。但是回家途中我想是不是老板觉得这本书很少会有人买所以才推荐给我的呢？</p>
+<p>我在此之前是不知道《将夜》这本书的，读它的时候也是将他看作《哑舍》，《龙族》这类高品质的出版小说来读。前文我提到过这本书只是《将夜》的一段，可以说没头没尾。所以初读感到莫名其妙。之后也是发扬了读《钢铁是怎样炼成的》精神。分了几次读完。但是在适应或者说带入到小说中后，就入迷了。后大半段就是一气呵成。<br>将夜文风偏文青，就是闷骚这也使在青春期的我得到了极大的满足。我觉得猫腻就是会写言情文的爽文作家。使我着迷的当然是将夜的爽。爽在骄傲二字，主角设定是三好学生，别人家的孩子穿越，以天下人大多数为废柴的骄傲；以书院为代表的强者骄傲，二师兄君陌高人一等的冠，小师叔没人有资格做我师傅，世间无敌拔剑问天，陈某的一句“柯浩然已死，夫子登天，那么我便只好天下无敌。是真t m的骄傲。唐人的骄傲，不畏死。<br>之后在高中，买了个mp4下完了全本，每日都是将夜伴我入睡。看完之后记不得多少，但看时它给我那种不一样的感觉影响到我，建立我的人格，伴我一生。</p>
+<p>将夜有许多好句子如：那年春，我把桃花切一斤。红墙白雪，要你喜欢。<br>也有好多精妙的剧情如：宁缺和夏侯决斗之前宁缺对众人说，“为什么你们都以为我是将军的儿子？”“我为什么一定要是将军的儿子？”“为什么你们都希望我是将军的儿子？”<br>我最喜欢的还是小说的最后桑桑变成一个抱着猫的贵妇人抱怨的说:“宁缺你骗人！”小说的最后桑桑好多的上天无情，最后这一句极具人情味的话语何其温馨，让我可以安心看完结局了。（最后附上我自己写的一首小诗。）</p>
+<p>书院不器意<br>天下浩然气<br>战夏侯<br>斗观主<br>天道与我是本命<br>梳碧湖畔<br>砍出马贼<br>闻风丧胆<br>书院旧书楼<br>呕尽肝肠断<br>老笔斋鸡汤暖<br>刀，命，符，笔<br>元十三箭<br>我已分离<br>还应相见</p>
+]]></content>
+      <categories>
+        <category>读后感</category>
+      </categories>
+      <tags>
+        <tag>将夜</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>曲柄连杆机构</title>
     <url>/main/2021/04/19/%E6%9B%B2%E6%9F%84%E8%BF%9E%E6%9D%86%E6%9C%BA%E6%9E%84/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="曲柄连杆机构"><a href="#曲柄连杆机构" class="headerlink" title="曲柄连杆机构"></a>曲柄连杆机构</h1><p>作用：将燃烧时产生的热能转变为活塞往复运动的机械能，再通过连杆将活塞的往复运动变为曲轴的旋转运动，从而对外输出动力。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\main\assets\css\APlayer.min.css"><script src="\main\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\main\assets\js\Meting.min.js"></script><h1 id="曲柄连杆机构"><a href="#曲柄连杆机构" class="headerlink" title="曲柄连杆机构"></a>曲柄连杆机构</h1><p>作用：将燃烧时产生的热能转变为活塞往复运动的机械能，再通过连杆将活塞的往复运动变为曲轴的旋转运动，从而对外输出动力。</p>
 <h2 id="曲柄连杆机构的组成"><a href="#曲柄连杆机构的组成" class="headerlink" title="曲柄连杆机构的组成"></a>曲柄连杆机构的组成</h2><p><a href="https://imgtu.com/i/cTnmlV"><img src="https://z3.ax1x.com/2021/04/19/cTnmlV.png" alt="cTnmlV.png"></a></p>
 <h2 id="活塞组"><a href="#活塞组" class="headerlink" title="活塞组"></a>活塞组</h2><h3 id="活塞"><a href="#活塞" class="headerlink" title="活塞"></a>活塞</h3><p><a href="https://imgtu.com/i/gp12lR"><img src="https://z3.ax1x.com/2021/04/26/gp12lR.jpg" alt="gp12lR.jpg"></a></p>
 <ul>
@@ -235,7 +349,7 @@
   <entry>
     <title>机械设计-连接-螺纹</title>
     <url>/main/2021/04/15/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1-%E8%BF%9E%E6%8E%A5-%E8%9E%BA%E7%BA%B9/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="螺纹连接"><a href="#螺纹连接" class="headerlink" title="螺纹连接"></a>螺纹连接</h1><h2 id="螺纹的基本参数"><a href="#螺纹的基本参数" class="headerlink" title="螺纹的基本参数"></a>螺纹的基本参数</h2><p><img src="https://z3.ax1x.com/2021/04/15/c2D6AO.png" alt="c2D6AO.png"></p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\main\assets\css\APlayer.min.css"><script src="\main\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\main\assets\js\Meting.min.js"></script><h1 id="螺纹连接"><a href="#螺纹连接" class="headerlink" title="螺纹连接"></a>螺纹连接</h1><h2 id="螺纹的基本参数"><a href="#螺纹的基本参数" class="headerlink" title="螺纹的基本参数"></a>螺纹的基本参数</h2><p><img src="https://z3.ax1x.com/2021/04/15/c2D6AO.png" alt="c2D6AO.png"></p>
 <ol>
 <li><p><strong>大径d</strong>。与<strong>外螺纹牙顶</strong>或<strong>内螺纹牙低</strong>相重合的假象圆柱面直径。在标准中定为<strong>公称直径</strong></p>
 </li>
@@ -308,9 +422,49 @@
       </tags>
   </entry>
   <entry>
+    <title>第一章 祖灵山上有婴儿</title>
+    <url>/main/2021/04/04/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%A5%96%E7%81%B5%E5%B1%B1%E4%B8%8A%E6%9C%89%E5%A9%B4%E5%84%BF/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\main\assets\css\APlayer.min.css"><script src="\main\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\main\assets\js\Meting.min.js"></script><p>张老汉今天和往常一样上山挖草药。背着个竹楼，嘴里叼着个烟杆，烟杆正冒着缕缕白烟。老汉一步一步慢慢走着，不慌不忙，倒像是来上山观光旅游的。</p>
+<p>　　也不怕采不到草药。祖灵山西部第一大山，和其他诸峰一起形成一道人族和妖族天然的屏障。人族在祖灵山以东布置防御，妖族在祖灵山以西活动。很少有药农到这儿来采药。虽说妖族在西面活动，但总有些不安分的，也会误闯祖灵山。<span id="more"></span></p>
+<p>　　随便一只妖物都不是一个药农能应付的。当然一经让人族军队发现，只有被炮火剿灭的命运。</p>
+<p>　　张老头沿着山路向上攀爬，看着是个白发佝偻的老头，不紧不慢，却也没见他休息，爬了有一段山路了，神情依然悠闲。</p>
+<p>　　走到一处灌木丛挡住前路，顺手就抽出别在腰后的柴刀，利落的就将灌木丛砍了几刀，刀锋过后，灌木倒在路旁。</p>
+<p>　　但是灌木从背后的情景着实让张老头有些惊讶。</p>
+<p>　　灌木丛后面居然有一个满身血的婴儿，血液已经干涸。一些枯木树叶落在婴儿身上，婴儿闭着眼睛，一动不动。也不知是死是活。这山中的野兽也没有将其吃掉。</p>
+<p>　　老头看着婴儿，只是一会儿。便将柴刀重新别在腰后，将婴儿抱起。老汉看着似乎已经死掉的婴儿，露出一道浅浅的的微笑。周围的枯叶突然沙沙作响，老汉双膝一微，居然激射向空中。</p>
+<p>　　在空中，出现一个黑点正向祖灵山更深处飞去。</p>
+<p>　　张老汉落在一座石屋旁。从石屋长满的青苔，布满的裂痕来看，石屋应该经历了悠久的岁月。以石屋半径几十米后才有粗壮的老树生长，在祖灵山深处形成了一个空地圆盘。只有一些杂草生长。</p>
+<p>　　老汉抱着婴儿走进了石屋。原来石屋里面还有一张石床，石床倒不像外面的那些石头长满青苔，反倒整洁如新，光滑无比。</p>
+<p>　　老汉将婴儿放在石床上，婴儿突然睁开眼睛，同时散发出一股无与伦比的威压。张老汉“砰”的一声，跪在了石板上。</p>
+<p>　　婴儿两眼放出金光。张老汉跪在地上，双眼居然放出两种一黑一白截然不容的光芒，身体肤色也变得一黑一白，运用周身力量与之抗衡。可是张老汉依然死死的跪在石板上，不能动弹分毫。</p>
+<p>　　产生的奇异光芒像一根根柔软的触手，一碰到四周的石壁就消失的无影无终。石屋外，依然是微风拂面，树叶作响，鸟鸣不断。春去秋来，树的年轮增加了五圈，石屋外的青草又长深了几分。鸟鸣依旧，石屋里的场景依旧。</p>
+<p>　　突然鸟从树林中惊慌飞出，一位全身包裹黑布人类降落在石屋附近，只看得到一双幽蓝色的双眼。黑衣布人从身后将一颗散发着黄色的石头拿出来，朝着石屋方向扔去。之后，黑衣布人双手掌中出现两轮法阵。法阵在他的操控下旋转，相容，又分裂出更多的法阵。渐渐产生的法阵将石屋包围。</p>
+<p>　　散发着黄光的石头飞进石屋，钻进了那个婴儿身体内。婴儿的那股强大的威压也随之消失。石屋外的法阵也朝着婴儿飞去，钻入婴儿体内。婴儿眼帘一闭一睁，便露出一双水汪汪的眼珠。</p>
+<p>　　张老汉，在威压消失的一瞬间，便起身朝石屋外飞射出去，。在没有了威压的束缚，张老汉身上气势更胜，两边一黑一白光芒在背后幻化出双翼。黑色单翼像是一只魔王的遗骸骨，白色单翼像是一位天使沐浴过圣光的羽翼。两种极其矛盾的感觉在张老汉的身上体现，并且还有一种本该如此的错觉感。</p>
+<p>　　此时随着张老汉散发出的无上力量，这周围被改造为独属于张老汉的小天地。这份从天地手中强取豪夺的逆天手段，竟然出现在一个年迈老汉身上，简直不可思议。</p>
+<p>　　再看黑衣布人，依然站在原地，黑布挡着面容，看不出神态，也不知是惊愕还是恐惧。</p>
+<p>　　“不用这样吧。”黑衣布人竟然用一种无奈，还有一丝戏谑的声音回应道。</p>
+<p>　　张老汉不由分说，便向黑衣布人攻了过来，那只黑色的魔翼挥动，直接朝着黑衣布人的脸上扇去，一股强劲的风暴夹带着毁灭的气息已经将黑衣布人包裹，如同一把把利刃切割着他的身体。</p>
+<p>　　但是不知那身黑衣到底是什么材质，竟然抗住了攻击，还毫发无损。</p>
+<p>　　张老汉见自己的攻击无果，并不气累·，右边的圣光白翼也向黑衣布人扇去，和那只黑翼一起，将黑衣布人包裹在其中。双翼的力量同时释放，每一种不同的力量相互碰撞，都会产生一种寂灭。这种寂灭，是只有黑衣布人这种存在才懂得的终结，一种天地的终结。</p>
+<p>　　翼中传出黑衣布人的声音：一个纯粹武者，打个人还这么花里五哨的。</p>
+<p>　　这次的声音就是纯粹的嘲笑了。</p>
+<p>　　本来严实包裹的双翼，开始颤动，紧接着出现裂缝，然后一瞬间被强行打开，里面的狂暴力量不受控制，四处乱窜，将才构建出的小天地摧毁。</p>
+<p>　　黑衣布人的一人黑布也从刚开始的粗糙，破漏，变得光滑无比，简直像穿了一身黑色紧身衣。趁着小天地被破坏，黑衣布人立刻向张老汉轰出一拳，同时逃出张老汉的身旁，向着天空飞去。留下一句“那个婴儿就交给你了。”</p>
+<p>　　张老汉在用手掌接住那一拳后，便没有追上去。在原地喃喃道“不是武者，还学着武者打出这一拳，你也花里胡哨的。”</p>
+<p>　　那只接住了黑衣布人那拳的手掌，依旧还有能量在闪动。</p>
+]]></content>
+      <categories>
+        <category>小说</category>
+      </categories>
+      <tags>
+        <tag>造就地狱</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>汽车构造--发动机简述</title>
     <url>/main/2021/04/08/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0-%E5%8F%91%E9%80%81%E6%9C%BA%E7%AE%80%E8%BF%B0/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>主要对我专业课《汽车构造》所学知识进行整理。也可能稍微设计其他专业课和课外知识</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\main\assets\css\APlayer.min.css"><script src="\main\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\main\assets\js\Meting.min.js"></script><p>主要对我专业课《汽车构造》所学知识进行整理。也可能稍微设计其他专业课和课外知识</p>
 <hr>
 <ul>
 <li><h2 id="发动机类型"><a href="#发动机类型" class="headerlink" title="发动机类型"></a>发动机类型</h2></li>
@@ -367,49 +521,9 @@
       </tags>
   </entry>
   <entry>
-    <title>第一章 祖灵山上有婴儿</title>
-    <url>/main/2021/04/04/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%A5%96%E7%81%B5%E5%B1%B1%E4%B8%8A%E6%9C%89%E5%A9%B4%E5%84%BF/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>张老汉今天和往常一样上山挖草药。背着个竹楼，嘴里叼着个烟杆，烟杆正冒着缕缕白烟。老汉一步一步慢慢走着，不慌不忙，倒像是来上山观光旅游的。</p>
-<p>　　也不怕采不到草药。祖灵山西部第一大山，和其他诸峰一起形成一道人族和妖族天然的屏障。人族在祖灵山以东布置防御，妖族在祖灵山以西活动。很少有药农到这儿来采药。虽说妖族在西面活动，但总有些不安分的，也会误闯祖灵山。<span id="more"></span></p>
-<p>　　随便一只妖物都不是一个药农能应付的。当然一经让人族军队发现，只有被炮火剿灭的命运。</p>
-<p>　　张老头沿着山路向上攀爬，看着是个白发佝偻的老头，不紧不慢，却也没见他休息，爬了有一段山路了，神情依然悠闲。</p>
-<p>　　走到一处灌木丛挡住前路，顺手就抽出别在腰后的柴刀，利落的就将灌木丛砍了几刀，刀锋过后，灌木倒在路旁。</p>
-<p>　　但是灌木从背后的情景着实让张老头有些惊讶。</p>
-<p>　　灌木丛后面居然有一个满身血的婴儿，血液已经干涸。一些枯木树叶落在婴儿身上，婴儿闭着眼睛，一动不动。也不知是死是活。这山中的野兽也没有将其吃掉。</p>
-<p>　　老头看着婴儿，只是一会儿。便将柴刀重新别在腰后，将婴儿抱起。老汉看着似乎已经死掉的婴儿，露出一道浅浅的的微笑。周围的枯叶突然沙沙作响，老汉双膝一微，居然激射向空中。</p>
-<p>　　在空中，出现一个黑点正向祖灵山更深处飞去。</p>
-<p>　　张老汉落在一座石屋旁。从石屋长满的青苔，布满的裂痕来看，石屋应该经历了悠久的岁月。以石屋半径几十米后才有粗壮的老树生长，在祖灵山深处形成了一个空地圆盘。只有一些杂草生长。</p>
-<p>　　老汉抱着婴儿走进了石屋。原来石屋里面还有一张石床，石床倒不像外面的那些石头长满青苔，反倒整洁如新，光滑无比。</p>
-<p>　　老汉将婴儿放在石床上，婴儿突然睁开眼睛，同时散发出一股无与伦比的威压。张老汉“砰”的一声，跪在了石板上。</p>
-<p>　　婴儿两眼放出金光。张老汉跪在地上，双眼居然放出两种一黑一白截然不容的光芒，身体肤色也变得一黑一白，运用周身力量与之抗衡。可是张老汉依然死死的跪在石板上，不能动弹分毫。</p>
-<p>　　产生的奇异光芒像一根根柔软的触手，一碰到四周的石壁就消失的无影无终。石屋外，依然是微风拂面，树叶作响，鸟鸣不断。春去秋来，树的年轮增加了五圈，石屋外的青草又长深了几分。鸟鸣依旧，石屋里的场景依旧。</p>
-<p>　　突然鸟从树林中惊慌飞出，一位全身包裹黑布人类降落在石屋附近，只看得到一双幽蓝色的双眼。黑衣布人从身后将一颗散发着黄色的石头拿出来，朝着石屋方向扔去。之后，黑衣布人双手掌中出现两轮法阵。法阵在他的操控下旋转，相容，又分裂出更多的法阵。渐渐产生的法阵将石屋包围。</p>
-<p>　　散发着黄光的石头飞进石屋，钻进了那个婴儿身体内。婴儿的那股强大的威压也随之消失。石屋外的法阵也朝着婴儿飞去，钻入婴儿体内。婴儿眼帘一闭一睁，便露出一双水汪汪的眼珠。</p>
-<p>　　张老汉，在威压消失的一瞬间，便起身朝石屋外飞射出去，。在没有了威压的束缚，张老汉身上气势更胜，两边一黑一白光芒在背后幻化出双翼。黑色单翼像是一只魔王的遗骸骨，白色单翼像是一位天使沐浴过圣光的羽翼。两种极其矛盾的感觉在张老汉的身上体现，并且还有一种本该如此的错觉感。</p>
-<p>　　此时随着张老汉散发出的无上力量，这周围被改造为独属于张老汉的小天地。这份从天地手中强取豪夺的逆天手段，竟然出现在一个年迈老汉身上，简直不可思议。</p>
-<p>　　再看黑衣布人，依然站在原地，黑布挡着面容，看不出神态，也不知是惊愕还是恐惧。</p>
-<p>　　“不用这样吧。”黑衣布人竟然用一种无奈，还有一丝戏谑的声音回应道。</p>
-<p>　　张老汉不由分说，便向黑衣布人攻了过来，那只黑色的魔翼挥动，直接朝着黑衣布人的脸上扇去，一股强劲的风暴夹带着毁灭的气息已经将黑衣布人包裹，如同一把把利刃切割着他的身体。</p>
-<p>　　但是不知那身黑衣到底是什么材质，竟然抗住了攻击，还毫发无损。</p>
-<p>　　张老汉见自己的攻击无果，并不气累·，右边的圣光白翼也向黑衣布人扇去，和那只黑翼一起，将黑衣布人包裹在其中。双翼的力量同时释放，每一种不同的力量相互碰撞，都会产生一种寂灭。这种寂灭，是只有黑衣布人这种存在才懂得的终结，一种天地的终结。</p>
-<p>　　翼中传出黑衣布人的声音：一个纯粹武者，打个人还这么花里五哨的。</p>
-<p>　　这次的声音就是纯粹的嘲笑了。</p>
-<p>　　本来严实包裹的双翼，开始颤动，紧接着出现裂缝，然后一瞬间被强行打开，里面的狂暴力量不受控制，四处乱窜，将才构建出的小天地摧毁。</p>
-<p>　　黑衣布人的一人黑布也从刚开始的粗糙，破漏，变得光滑无比，简直像穿了一身黑色紧身衣。趁着小天地被破坏，黑衣布人立刻向张老汉轰出一拳，同时逃出张老汉的身旁，向着天空飞去。留下一句“那个婴儿就交给你了。”</p>
-<p>　　张老汉在用手掌接住那一拳后，便没有追上去。在原地喃喃道“不是武者，还学着武者打出这一拳，你也花里胡哨的。”</p>
-<p>　　那只接住了黑衣布人那拳的手掌，依旧还有能量在闪动。</p>
-]]></content>
-      <categories>
-        <category>小说</category>
-      </categories>
-      <tags>
-        <tag>造就地狱</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>第三章 相遇</title>
     <url>/main/2021/05/01/%E7%AC%AC%E4%B8%89%E7%AB%A0/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>自从张鸣善被张老头捡到后，俩人便一直生活在祖灵山上，相依为命。靠着自己种的菜和张老头每月从山下抗回的几袋米，解决食物的问题。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\main\assets\css\APlayer.min.css"><script src="\main\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\main\assets\js\Meting.min.js"></script><p>自从张鸣善被张老头捡到后，俩人便一直生活在祖灵山上，相依为命。靠着自己种的菜和张老头每月从山下抗回的几袋米，解决食物的问题。</p>
 <p>　　其实祖灵山作为人类最西边第一大山，山上产物丰富，药材仙草众多，各种奇珍异兽活跃在山间，而且凶恶的妖兽又极少。这都要得力于人类边军的守护。祖灵山作为西部第一大山，组成了防御妖族的重要壁垒。人类依据地利在祖灵山以东驻军防御妖族。</p>
 <p>　　正因为祖灵山特殊的地位，平日里极少有人登山。张鸣善也只有与自己玩耍。张鸣善也曾经问过他的张师傅为什么我们不搬到山下有人的地方去住。每次张老头都会回一句：还没到时候。小孩子也爱刨根问底，追问到时候是什么时候。每每到此，张鸣善都只会得到张老头的呼噜声的回应。</p>
 <p>　　有一次，张鸣善实在受不了。便学着电视上离家出走。说到这部电视，就摆放在石屋的台子上，电视看着怕破破烂烂，但是靠着石屋上的那根落后的天线却也能播放两三个频道，一个人文社科，一个播放电视连续剧，不过就几部电视剧循环播，还有一个整天不间断的放着歌。这是张老头不知从什么地方搞来的。</p>
@@ -454,7 +568,7 @@
   <entry>
     <title>第二章 离家出走</title>
     <url>/main/2021/04/07/%E7%AC%AC%E4%BA%8C%E7%AB%A0%E7%A6%BB%E5%AE%B6%E5%87%BA%E8%B5%B0/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\main\assets\css\APlayer.min.css"><script src="\main\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\main\assets\js\Meting.min.js"></script><blockquote>
 <p>自从张鸣善被张老头捡到后，俩人便一直生活在祖灵山上，相依为命。靠着自己种的菜和张老头每月从山下抗回的几袋米，解决食物的问题。</p>
 <p>其实祖灵山作为人类最西边第一大山，山上产物丰富，药材仙草众多，各种奇珍异兽活跃在山间，而且凶恶的妖兽又极少。这都要得力于人类边军的守护。祖灵山作为西部第一大山，组成了防御妖族的重要壁垒。人类依据地利在祖灵山以东驻军防御妖族。</p>
 <p>正因为祖灵山特殊的地位，平日里极少有人登山。张鸣善也只有与自己玩耍。张鸣善也曾经问过他的张师傅为什么我们不搬到山下有人的地方去住。每次张老头都会回一句：还没到时候。小孩子也爱刨根问底，追问到时候是什么时候。每每到此，张鸣善都只会得到张老头的呼噜声的回应。</p>
@@ -508,7 +622,7 @@
   <entry>
     <title>第五章 爬山</title>
     <url>/main/2021/05/01/%E7%AC%AC%E4%BA%94%E7%AB%A0/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>这天张铭善和柔儿约定一起去爬山。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\main\assets\css\APlayer.min.css"><script src="\main\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\main\assets\js\Meting.min.js"></script><p>这天张铭善和柔儿约定一起去爬山。</p>
 <p>　　因为祖灵山太大了，张铭善那天和柔儿姐姐吃着水晶胡萝卜聊天的时候才发现，一人一妖虽然都有远超常人的身体素质，但是都没有去过祖灵山巅。</p>
 <p>　　所以就约定从石屋出发，往更高处去。</p>
 <p>　　祖灵山本就人迹罕至。山路就更没有了。张铭善和柔儿也就只能顺着山中野兽过压出来的路来走。走到一处没有路了，或是被居士挡住去路。兔妖柔儿就凭借着灵活的身手从树间跳跃过去。张铭善呢。如果遇到一些小一点的树枝挡住去路。就直接折断，石头就直接搬开。要是遇到折不断的树，搬不动的石头。柔儿就带着张铭善一起翻过去。</p>
@@ -559,7 +673,7 @@
   <entry>
     <title>第四章 一场梦</title>
     <url>/main/2021/05/01/%E7%AC%AC%E5%9B%9B%E7%AB%A0/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>　张铭善按照张老汉的吩咐将兔妖放在自家接水的水缸里，放上两株刚从自家后院采的过青草。烧上柴火。随着柴火将水加热，过青草渐渐将水染成浅绿色。兔妖被青面杀人蜂蜇的鼓包出也流出墨绿色的脓水。鼓包也随之瘪了下去。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\main\assets\css\APlayer.min.css"><script src="\main\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\main\assets\js\Meting.min.js"></script><p>　张铭善按照张老汉的吩咐将兔妖放在自家接水的水缸里，放上两株刚从自家后院采的过青草。烧上柴火。随着柴火将水加热，过青草渐渐将水染成浅绿色。兔妖被青面杀人蜂蜇的鼓包出也流出墨绿色的脓水。鼓包也随之瘪了下去。</p>
 <p>　　张铭善看见兔妖姐姐随着药草的药力进入身体，青面杀人蜂的毒素渐渐排除体内，就去准备了自己的过青草水。将水桶支起。柴火烧起，把自己泡了进去。</p>
 <p>　　随着水温的升高，身上的毒素渐渐的排出体外。张铭善也逐渐睡着了。</p>
 <p>　　天空的最高处闪耀着金色光芒。一道道金色光芒射向地面，犹如一道道无比神圣的利剑，裁决净化世间的污浊，不可抗拒。地面上有七道不知名的力量对抗着这股不可抗拒的力量，西南方充满蛮霸之力的那股力量首先飞向天空，蛮霸之力覆盖全身，金色圣光不可侵蚀。但是越到高出，金色圣光的威力也就越大。那道蛮霸之力也快难以抵抗。随后其他的六道地面力量也一个接一个的飞向天空。七道力量与那圣神光芒碰撞，让世界开始破碎，空间出现一道一道又一道的裂痕。在破碎处流出黑色的浓稠物，浓稠物里面传出极其凄惨的喊叫，极其疯狂的嘶吼，像有无数的怨灵被困。人间炼狱不过如此。</p>
@@ -627,94 +741,9 @@
       </tags>
   </entry>
   <entry>
-    <title>小白如何拥有个人博客</title>
-    <url>/main/2021/05/04/%E5%A6%82%E4%BD%95%E6%8B%A5%E6%9C%89%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\main\assets\css\APlayer.min.css"><script src="\main\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\main\assets\js\Meting.min.js"></script><p>我本人完全是小白。都是在网上找教程搭建的。比较简单<br>这是成果<a href="https://xqyr.ml/">小憩悠然</a></p>
-<h2 id="思路"><a href="#思路" class="headerlink" title="思路"></a><strong>思路</strong></h2><p>hexo+github或者其他的hexo+gitee也行。</p>
-<p>但是gitee普通用户需要手动更新。意思就是你传上去的文章，要在gitee pages更新一下，才能在自己的博客网站看到。所以我推荐用GitHub。</p>
-<p>hexo你可以理解为提供一个模板给你，你可以在这个模板上写博客然后转化成网页。</p>
-<p>GitHub就是把你的博客放到网上去</p>
-<h2 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h2><h3 id="第一步骤：安装git"><a href="#第一步骤：安装git" class="headerlink" title="第一步骤：安装git"></a>第一步骤：安装git</h3><p>git用来管理你的Hexo文章，将本地的博客上传至Github。到Git官网选择合适的版本<a href="https://gitforwindows.org/">下载</a>，安装后会有一个Git Bash的命令行工具，之后用该工具操作Git。<a href="https://gitforwindows.org/">下载地址</a></p>
-<p>在桌面右键选择Git Bash Here,输入下面的代码。检查是在否安装成功。正常显示版本号就可以了</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git --version</span><br></pre></td></tr></table></figure>
-
-<h3 id="安装Node-js"><a href="#安装Node-js" class="headerlink" title="安装Node.js"></a>安装Node.js</h3><p>Hexo基于Node.js，所以需要安装Node.js及npm工具。可进入Node.js中文网<a href="http://nodejs.cn/download/">下载</a>，选择LTS（长期支持版本）即可。<a href="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/20210219192314.png">
-  </a></p>
-<p>检查是否安装成功：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">node -v</span><br><span class="line">npm -v</span><br></pre></td></tr></table></figure>
-
-<p>正常显示版本号，无报错即为安装成功。</p>
-<h3 id="然后我们就可安装hexo了"><a href="#然后我们就可安装hexo了" class="headerlink" title="然后我们就可安装hexo了"></a>然后我们就可安装hexo了</h3><p>右键打开Git Bash，输入命令：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure>
-
-<p>检查是否安装成功：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo -v</span><br></pre></td></tr></table></figure>
-
-<h3 id="本地搭建博客"><a href="#本地搭建博客" class="headerlink" title="本地搭建博客"></a>本地搭建博客</h3><p>在电脑上新建一个专门用来存放你的博客的文件夹，如 <strong>F:\GitHubblog</strong></p>
-<p>在该文件夹下 <strong>右键-git bash here</strong></p>
-<figure class="highlight kotlin"><table><tr><td class="code"><pre><span class="line">hexo <span class="keyword">init</span>  <span class="comment">//在本地生成hexo模板</span></span><br></pre></td></tr></table></figure>
-
-<h3 id="你可以看看模板了"><a href="#你可以看看模板了" class="headerlink" title="你可以看看模板了"></a>你可以看看模板了</h3><p>Git Bash执行以下命令：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo -g</span><br><span class="line">hexo server</span><br></pre></td></tr></table></figure>
-
-<p>启动hexo服务，访问<a href="http://localhost:4000/">http://localhost:4000</a>即可看到生成的博客页面。使用Ctrl+C可关闭本地服务。</p>
-<p><a href="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/20210219193523.png"><img src="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/20210219193523.png" alt="img"></a></p>
-<hr>
-<p>现在我们已经成功一大截了。之后就是把博客放到github上面去。</p>
-<p>下面会有一点难度。注意看哟</p>
-<h3 id="在GitHub上创建个人仓库"><a href="#在GitHub上创建个人仓库" class="headerlink" title="在GitHub上创建个人仓库"></a>在<a href="https://github.com/">GitHub</a>上创建个人仓库</h3><p>注册账号省略了。</p>
-<p>注册完之后，你要创建一个仓库。就是下图这个。</p>
-<p><a href="https://imgtu.com/i/guQzsx"><img src="https://z3.ax1x.com/2021/05/04/guQzsx.png" alt="guQzsx.png"></a></p>
-<p>注册仓库的时候要注意<strong>仓库名必须是</strong>：用户名.github.io。比如我的用户名是xqyr。那么我的仓库名就是xqyr.github.io</p>
-<p>其他的默认就好</p>
-<p><a href="https://imgtu.com/i/gulawT"><img src="https://z3.ax1x.com/2021/05/04/gulawT.md.png" alt="gulawT.md.png"></a></p>
-<h3 id="配置SSH"><a href="#配置SSH" class="headerlink" title="配置SSH"></a>配置SSH</h3><p>之后就是让你的电脑知道你要把你的博客传到哪里去。方法就是配置SSH</p>
-<p>打开Git Bash，输入以下命令，生成本地密钥。这里用户名和邮箱仅作演示，用户名为你Github的用户名，邮箱为你Github的邮箱。</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git config --global user.name &quot;muzihuaner&quot;</span><br><span class="line">git config --global user.email &quot;xxxxxx@qq.com&quot;</span><br></pre></td></tr></table></figure>
-
-<p>输入以下命令，检查输入是否正确：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git config user.name</span><br><span class="line">git config user.email</span><br></pre></td></tr></table></figure>
-
-<p>确认无误后，输入以下命令，创建SSH：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">ssh-keygen -t rsa -C &quot;youremail&quot;</span><br></pre></td></tr></table></figure>
-
-<p>无脑下一步即可</p>
-<p>此时在用户文件夹下，已经生成了.ssh文件夹，在本地找到这个文件夹。</p>
-<p><a href="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/20210219195310.png"><img src="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/20210219195310.png" alt="img"></a></p>
-<p><code>id_rsa</code>是你这台电脑的私人秘钥，<code>id_rsa.pub</code>是公共秘钥。把公钥放在GitHub上，当你连接自己的Github账号时，它就会根据公钥匹配你的私钥，当能够相互匹配时，才能够顺利的通过Git上传你的文件到GitHub上。</p>
-<p>在Github的设置中，找到<code>SSH and GPG keys</code>，新建SSH Key，以文本方式打开<code>id_rsa.pub</code>文件，将内容复制到Key，标题随便起，添加Key。</p>
-<p><a href="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/20210219195433.png"><img src="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/20210219195433.png" alt="img"></a></p>
-<p>现在我们相当于把钥匙做好了。我把做好的钥匙给hexo</p>
-<h3 id="部署代码到Github"><a href="#部署代码到Github" class="headerlink" title="部署代码到Github"></a>部署代码到Github</h3><p>打开本地博客文件夹配置文件<code>_config.yml</code>，拉到最底部，找到deploy字段，按如下格式修改其内容：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  type: git</span><br><span class="line">  repository: git@github.com:muzihuaner&#x2F;muzihuaner.github.io.git</span><br><span class="line">  branch: main</span><br><span class="line">Copy</span><br></pre></td></tr></table></figure>
-
-<p>其中repo字段可在Github获取：</p>
-<p><a href="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/image-20210219195740908.png"><img src="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/image-20210219195740908.png" alt="image-20210219195740908"></a></p>
-<p>回到Git Bash，安装deploy-git ，用于使用命令部署到Github。</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure>
-
-<p>然后执行：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo clean	&#x2F;&#x2F;可省略</span><br><span class="line">hexo generate</span><br><span class="line">hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>出现下图所示说明部署成功，此时代码已同步至Github。</p>
-<p><a href="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/image-20210219201138121.png"><img src="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/image-20210219201138121.png" alt="image-20210219201138121"></a></p>
-<p><a href="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/image-20210219201138121.png">image-20210219201138121</a></p>
-<p><a href="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/image-20210219201209648.png"><img src="https://cdn.jsdelivr.net/gh/muzihuaner/huancdn/img/image-20210219201209648.png" alt="image-20210219201209648"></a></p>
-<p>大功告成。现在你可以在网上看到你的博客网站了。打开网址<a href="http://yourname.github.io/">http://yourname.github.io</a>就可以看到Hexo博客了。</p>
-<p>下次我们来聊聊怎么绑定免费域名，如何配置网页主题，怎么写博客，传上去。</p>
-<p>最后欢迎大家进我的博客<a href="https://xqyr.ml看看./">https://xqyr.ml看看。</a></p>
-]]></content>
-      <categories>
-        <category>电脑</category>
-      </categories>
-      <tags>
-        <tag>博客</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>自己做软件</title>
     <url>/main/2021/05/02/%E8%87%AA%E5%B7%B1%E5%81%9A%E8%BD%AF%E4%BB%B6/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>最近发现了一款可以将网页转换为app的软件fusion app<br>现在 酷安只能搜到1.##的版本。但是我这里举例的是2.0。<br>基本上差不多。<br>小白也能轻松上手。<br>让我们开始吧</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\main\assets\css\APlayer.min.css"><script src="\main\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\main\assets\js\Meting.min.js"></script><p>最近发现了一款可以将网页转换为app的软件fusion app<br>现在 酷安只能搜到1.##的版本。但是我这里举例的是2.0。<br>基本上差不多。<br>小白也能轻松上手。<br>让我们开始吧</p>
 <hr>
 <p>打开应用是这样的界面</p>
 <p><a href="https://imgtu.com/i/gene5q"><img src="https://z3.ax1x.com/2021/05/02/gene5q.png" alt="gene5q.png"></a></p>
@@ -728,35 +757,6 @@
       </categories>
       <tags>
         <tag>fusion</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>汽油机燃油系统</title>
-    <url>/main/2021/05/03/%E5%8F%91%E5%8A%A8%E6%9C%BA%E7%87%83%E6%B2%B9%E7%B3%BB%E7%BB%9F/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\main\assets\css\APlayer.min.css"><script src="\main\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\main\assets\js\Meting.min.js"></script><h2 id="汽油"><a href="#汽油" class="headerlink" title="汽油"></a>汽油</h2><p>汽油燃烧不完全会产生CO和氢化物。</p>
-<p>良好的蒸发性</p>
-<p>高抗爆性：辛烷值越高抗爆性越好</p>
-<h2 id="燃油系统的作用和组成"><a href="#燃油系统的作用和组成" class="headerlink" title="燃油系统的作用和组成"></a>燃油系统的作用和组成</h2><p>组成：油箱，电动燃油泵，燃油滤清器，燃油分配管，燃油压力调节器，喷油器（雾化汽油）</p>
-<h3 id="可燃混合气成分要求"><a href="#可燃混合气成分要求" class="headerlink" title="可燃混合气成分要求"></a>可燃混合气成分要求</h3><p>空燃比α：空气质量与燃油的比例（理论混合气α=14.8）</p>
-<p>过量空气系数<a href="https://imgtu.com/i/gnCqk8"><img src="https://z3.ax1x.com/2021/05/04/gnCqk8.png" alt="gnCqk8.png"></a>：燃烧1kg燃油实际空气质量/完全…化学计量空气质量</p>
-<p>混合气<a href="https://imgtu.com/i/gnCqk8"><img src="https://z3.ax1x.com/2021/05/04/gnCqk8.png" alt="gnCqk8.png"></a>=1.05-1.15为经济混合气</p>
-<p>=0，85-0.95，为功率混合气</p>
-<p>=0.4-0.5或者1.3-1.4不能着火燃烧。分别为传播上限和传播下线</p>
-<h4 id="各种工况下的混合气成分"><a href="#各种工况下的混合气成分" class="headerlink" title="各种工况下的混合气成分"></a>各种工况下的混合气成分</h4><p>冷启动：0.2-0.6浓混合气</p>
-<p>怠速：0.6-0.8</p>
-<p>小负荷：比怠速稍稀，0.7-0.9</p>
-<p>中等负荷：经济混合气</p>
-<p>大和全负荷：0.85-0.95</p>
-<h2 id="辅助装置"><a href="#辅助装置" class="headerlink" title="辅助装置"></a>辅助装置</h2><p>汽油箱</p>
-<p>汽油滤清器</p>
-<p>汽油泵</p>
-<h2 id="电子控制汽油喷射系统"><a href="#电子控制汽油喷射系统" class="headerlink" title="电子控制汽油喷射系统"></a>电子控制汽油喷射系统</h2>]]></content>
-      <categories>
-        <category>大学知识整理</category>
-        <category>汽车构造</category>
-      </categories>
-      <tags>
-        <tag>发动机</tag>
       </tags>
   </entry>
 </search>
