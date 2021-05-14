@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-05-14T14:13:38.471Z</updated>
+  <updated>2021-05-14T14:29:52.068Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2021/05/14/%E9%BD%BF%E8%BD%AE%E8%AE%BE%E8%AE%A1/"/>
     <id>http://example.com/2021/05/14/%E9%BD%BF%E8%BD%AE%E8%AE%BE%E8%AE%A1/</id>
     <published>2021-05-14T13:35:57.000Z</published>
-    <updated>2021-05-14T14:13:38.471Z</updated>
+    <updated>2021-05-14T14:29:52.068Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="圆柱齿轮设计"><a href="#圆柱齿轮设计" class="headerlink" title="圆柱齿轮设计"></a><strong>圆柱齿轮设计</strong></h2><h3 id="根据应用环境可确定精度"><a href="#根据应用环境可确定精度" class="headerlink" title="根据应用环境可确定精度"></a>根据应用环境可确定<strong>精度</strong></h3><p><a href="https://imgtu.com/i/gyiXJH"><img src="https://z3.ax1x.com/2021/05/14/gyiXJH.jpg" alt="gyiXJH.jpg"></a></p><h3 id="精度。转速。硬度"><a href="#精度。转速。硬度" class="headerlink" title="精度。转速。硬度"></a>精度。转速。硬度</h3><p><a href="https://imgtu.com/i/gyF5tg"><img src="https://z3.ax1x.com/2021/05/14/gyF5tg.jpg" alt="gyF5tg.jpg"></a></p><h3 id="材料-热处理方法-硬度"><a href="#材料-热处理方法-硬度" class="headerlink" title="材料 热处理方法 硬度"></a>材料 热处理方法 硬度</h3><p><a href="https://imgtu.com/i/gyFOBV"><img src="https://z3.ax1x.com/2021/05/14/gyFOBV.png" alt="gyFOBV.png"></a></p><h2 id="通过以上确定材料，硬度，精度"><a href="#通过以上确定材料，硬度，精度" class="headerlink" title="通过以上确定材料，硬度，精度"></a>通过以上确定材料，硬度，精度</h2><h3 id="按齿面接触疲劳强度设计主要尺寸-、"><a href="#按齿面接触疲劳强度设计主要尺寸-、" class="headerlink" title="按齿面接触疲劳强度设计主要尺寸## #、"></a>按<strong>齿面接触疲劳强度</strong>设计<strong>主要尺寸</strong>## #、</h3><p>简化公式得<strong>中心距</strong>（p166）</p><h3 id="强度校核"><a href="#强度校核" class="headerlink" title="强度校核"></a>强度校核</h3>]]></content>
     
@@ -33,6 +33,12 @@
     
     
     
+    <category term="大学知识整理" scheme="http://example.com/categories/%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/"/>
+    
+    <category term="机械设计" scheme="http://example.com/categories/%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+    <category term="齿轮设计" scheme="http://example.com/tags/%E9%BD%BF%E8%BD%AE%E8%AE%BE%E8%AE%A1/"/>
     
   </entry>
   
