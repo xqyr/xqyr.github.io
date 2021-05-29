@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-05-20T10:46:30.341Z</updated>
+  <updated>2021-05-28T14:29:46.712Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -18,12 +18,12 @@
   
   <entry>
     <title>润滑系统</title>
-    <link href="http://example.com/2021/05/20/%E6%B6%A6%E6%BB%91%E7%B3%BB%E7%BB%9F/"/>
-    <id>http://example.com/2021/05/20/%E6%B6%A6%E6%BB%91%E7%B3%BB%E7%BB%9F/</id>
+    <link href="http://example.com/2021/05/20/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0/%E6%B6%A6%E6%BB%91%E7%B3%BB%E7%BB%9F/"/>
+    <id>http://example.com/2021/05/20/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0/%E6%B6%A6%E6%BB%91%E7%B3%BB%E7%BB%9F/</id>
     <published>2021-05-20T10:46:30.000Z</published>
-    <updated>2021-05-20T10:46:30.341Z</updated>
+    <updated>2021-05-28T14:29:46.712Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="润滑系统的组成"><a href="#润滑系统的组成" class="headerlink" title="润滑系统的组成"></a>润滑系统的组成</h2><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.robotjc.com%2Fdata%2Fattachment%2Fportal%2F201811%2F14%2F181240gvvqqqkz58nw5zsx.jpg&refer=http%3A%2F%2Fwww.robotjc.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1624801833&t=f33f72328c5490de86b672b610d75507" alt="img" style="zoom:80%;" /><h2 id="作用"><a href="#作用" class="headerlink" title="作用"></a>作用</h2><p>润滑，密封，冷却，清洁，防锈，减震缓冲，液压</p><h2 id="润滑方式"><a href="#润滑方式" class="headerlink" title="润滑方式"></a>润滑方式</h2><h3 id="压力润滑"><a href="#压力润滑" class="headerlink" title="压力润滑"></a>压力润滑</h3><h3 id="飞溅润滑"><a href="#飞溅润滑" class="headerlink" title="飞溅润滑"></a><strong><font color='red'>飞溅润滑</font></strong></h3><p><img src="https://raw.githubusercontent.com/xqyr/img/master/img/image-20210528213608438.png"></p><h3 id="定期润滑"><a href="#定期润滑" class="headerlink" title="定期润滑"></a>定期润滑</h3>]]></content>
     
     
       
@@ -33,13 +33,19 @@
     
     
     
+    <category term="大学知识整理" scheme="http://example.com/categories/%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/"/>
+    
+    <category term="汽车构造" scheme="http://example.com/categories/%E5%A4%A7%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%95%B4%E7%90%86/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0/"/>
+    
+    
+    <category term="发动机" scheme="http://example.com/tags/%E5%8F%91%E5%8A%A8%E6%9C%BA/"/>
     
   </entry>
   
   <entry>
     <title>冷却系统</title>
-    <link href="http://example.com/2021/05/20/%E5%86%B7%E5%8D%B4%E7%B3%BB%E7%BB%9F/"/>
-    <id>http://example.com/2021/05/20/%E5%86%B7%E5%8D%B4%E7%B3%BB%E7%BB%9F/</id>
+    <link href="http://example.com/2021/05/20/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0/%E5%86%B7%E5%8D%B4%E7%B3%BB%E7%BB%9F/"/>
+    <id>http://example.com/2021/05/20/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0/%E5%86%B7%E5%8D%B4%E7%B3%BB%E7%BB%9F/</id>
     <published>2021-05-20T08:52:52.000Z</published>
     <updated>2021-05-20T10:49:19.536Z</updated>
     
@@ -64,8 +70,8 @@
   
   <entry>
     <title>第七章 猿猴的故事</title>
-    <link href="http://example.com/2021/05/18/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E9%82%A3%E5%8F%AA%E7%8C%BF%E7%9A%84%E6%95%85%E4%BA%8B/"/>
-    <id>http://example.com/2021/05/18/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E9%82%A3%E5%8F%AA%E7%8C%BF%E7%9A%84%E6%95%85%E4%BA%8B/</id>
+    <link href="http://example.com/2021/05/18/%E5%B0%8F%E8%AF%B4/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E9%82%A3%E5%8F%AA%E7%8C%BF%E7%9A%84%E6%95%85%E4%BA%8B/"/>
+    <id>http://example.com/2021/05/18/%E5%B0%8F%E8%AF%B4/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E9%82%A3%E5%8F%AA%E7%8C%BF%E7%9A%84%E6%95%85%E4%BA%8B/</id>
     <published>2021-05-18T15:16:13.000Z</published>
     <updated>2021-05-18T15:17:21.436Z</updated>
     
@@ -88,8 +94,8 @@
   
   <entry>
     <title>齿轮简述</title>
-    <link href="http://example.com/2021/05/16/%E9%BD%BF%E8%BD%AE%E7%AE%80%E8%BF%B0/"/>
-    <id>http://example.com/2021/05/16/%E9%BD%BF%E8%BD%AE%E7%AE%80%E8%BF%B0/</id>
+    <link href="http://example.com/2021/05/16/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1/%E9%BD%BF%E8%BD%AE%E7%AE%80%E8%BF%B0/"/>
+    <id>http://example.com/2021/05/16/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1/%E9%BD%BF%E8%BD%AE%E7%AE%80%E8%BF%B0/</id>
     <published>2021-05-16T13:28:41.000Z</published>
     <updated>2021-05-18T15:24:51.927Z</updated>
     
@@ -114,8 +120,8 @@
   
   <entry>
     <title>齿轮设计</title>
-    <link href="http://example.com/2021/05/14/%E9%BD%BF%E8%BD%AE%E8%AE%BE%E8%AE%A1/"/>
-    <id>http://example.com/2021/05/14/%E9%BD%BF%E8%BD%AE%E8%AE%BE%E8%AE%A1/</id>
+    <link href="http://example.com/2021/05/14/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1/%E9%BD%BF%E8%BD%AE%E8%AE%BE%E8%AE%A1/"/>
+    <id>http://example.com/2021/05/14/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1/%E9%BD%BF%E8%BD%AE%E8%AE%BE%E8%AE%A1/</id>
     <published>2021-05-14T13:35:57.000Z</published>
     <updated>2021-05-18T15:34:06.375Z</updated>
     
@@ -140,8 +146,8 @@
   
   <entry>
     <title>第六章那只猿</title>
-    <link href="http://example.com/2021/05/09/%E7%AC%AC%E5%85%AD%E7%AB%A0%E9%82%A3%E5%8F%AA%E7%8C%BF/"/>
-    <id>http://example.com/2021/05/09/%E7%AC%AC%E5%85%AD%E7%AB%A0%E9%82%A3%E5%8F%AA%E7%8C%BF/</id>
+    <link href="http://example.com/2021/05/09/%E5%B0%8F%E8%AF%B4/%E7%AC%AC%E5%85%AD%E7%AB%A0%E9%82%A3%E5%8F%AA%E7%8C%BF/"/>
+    <id>http://example.com/2021/05/09/%E5%B0%8F%E8%AF%B4/%E7%AC%AC%E5%85%AD%E7%AB%A0%E9%82%A3%E5%8F%AA%E7%8C%BF/</id>
     <published>2021-05-09T07:13:16.000Z</published>
     <updated>2021-05-16T03:17:12.638Z</updated>
     
@@ -188,8 +194,8 @@
   
   <entry>
     <title>汽油机燃油供给系统</title>
-    <link href="http://example.com/2021/05/03/%E5%8F%91%E5%8A%A8%E6%9C%BA%E7%87%83%E6%B2%B9%E7%B3%BB%E7%BB%9F/"/>
-    <id>http://example.com/2021/05/03/%E5%8F%91%E5%8A%A8%E6%9C%BA%E7%87%83%E6%B2%B9%E7%B3%BB%E7%BB%9F/</id>
+    <link href="http://example.com/2021/05/03/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0/%E5%8F%91%E5%8A%A8%E6%9C%BA%E7%87%83%E6%B2%B9%E7%B3%BB%E7%BB%9F/"/>
+    <id>http://example.com/2021/05/03/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0/%E5%8F%91%E5%8A%A8%E6%9C%BA%E7%87%83%E6%B2%B9%E7%B3%BB%E7%BB%9F/</id>
     <published>2021-05-03T09:20:01.000Z</published>
     <updated>2021-05-20T11:37:05.766Z</updated>
     
@@ -238,8 +244,8 @@
   
   <entry>
     <title>第五章 爬山</title>
-    <link href="http://example.com/2021/05/01/%E7%AC%AC%E4%BA%94%E7%AB%A0/"/>
-    <id>http://example.com/2021/05/01/%E7%AC%AC%E4%BA%94%E7%AB%A0/</id>
+    <link href="http://example.com/2021/05/01/%E5%B0%8F%E8%AF%B4/%E7%AC%AC%E4%BA%94%E7%AB%A0/"/>
+    <id>http://example.com/2021/05/01/%E5%B0%8F%E8%AF%B4/%E7%AC%AC%E4%BA%94%E7%AB%A0/</id>
     <published>2021-05-01T14:50:10.000Z</published>
     <updated>2021-05-11T07:41:26.001Z</updated>
     
@@ -262,8 +268,8 @@
   
   <entry>
     <title>第四章 一场梦</title>
-    <link href="http://example.com/2021/05/01/%E7%AC%AC%E5%9B%9B%E7%AB%A0/"/>
-    <id>http://example.com/2021/05/01/%E7%AC%AC%E5%9B%9B%E7%AB%A0/</id>
+    <link href="http://example.com/2021/05/01/%E5%B0%8F%E8%AF%B4/%E7%AC%AC%E5%9B%9B%E7%AB%A0/"/>
+    <id>http://example.com/2021/05/01/%E5%B0%8F%E8%AF%B4/%E7%AC%AC%E5%9B%9B%E7%AB%A0/</id>
     <published>2021-05-01T14:49:50.000Z</published>
     <updated>2021-05-01T14:55:14.347Z</updated>
     
@@ -286,8 +292,8 @@
   
   <entry>
     <title>第三章 相遇</title>
-    <link href="http://example.com/2021/05/01/%E7%AC%AC%E4%B8%89%E7%AB%A0/"/>
-    <id>http://example.com/2021/05/01/%E7%AC%AC%E4%B8%89%E7%AB%A0/</id>
+    <link href="http://example.com/2021/05/01/%E5%B0%8F%E8%AF%B4/%E7%AC%AC%E4%B8%89%E7%AB%A0/"/>
+    <id>http://example.com/2021/05/01/%E5%B0%8F%E8%AF%B4/%E7%AC%AC%E4%B8%89%E7%AB%A0/</id>
     <published>2021-05-01T14:49:27.000Z</published>
     <updated>2021-05-01T14:55:12.835Z</updated>
     
@@ -310,12 +316,12 @@
   
   <entry>
     <title>配气机构</title>
-    <link href="http://example.com/2021/05/01/%E9%85%8D%E6%B0%94%E6%9C%BA%E6%9E%84/"/>
-    <id>http://example.com/2021/05/01/%E9%85%8D%E6%B0%94%E6%9C%BA%E6%9E%84/</id>
+    <link href="http://example.com/2021/05/01/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0/%E9%85%8D%E6%B0%94%E6%9C%BA%E6%9E%84/"/>
+    <id>http://example.com/2021/05/01/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0/%E9%85%8D%E6%B0%94%E6%9C%BA%E6%9E%84/</id>
     <published>2021-05-01T10:13:51.000Z</published>
-    <updated>2021-05-12T11:53:15.802Z</updated>
+    <updated>2021-05-28T14:47:49.156Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="配气机构"><a href="#配气机构" class="headerlink" title="配气机构"></a>配气机构</h1><h2 id="配气机构的组成和作用"><a href="#配气机构的组成和作用" class="headerlink" title="配气机构的组成和作用"></a>配气机构的组成和作用</h2><p><a href="https://imgtu.com/i/gVqqMQ"><img src="https://z3.ax1x.com/2021/05/01/gVqqMQ.md.png" alt="gVqqMQ.md.png"></a></p><p>气门式配气机构</p><p><strong>组成：气门组和气门传动组</strong></p><p>作用：定时开关进气门和排气门</p><p> 种类：</p><ul><li><p>凸轮轴下置式配气机构</p></li><li><p>凸轮轴中置式配气机构</p></li><li><p>凸轮轴上置式配气机构（OHC）</p><p>优点：运动件少，传动链短。常用于高速发动机。</p></li></ul><h2 id="配气定时和气门间隙"><a href="#配气定时和气门间隙" class="headerlink" title="配气定时和气门间隙"></a>配气定时和气门间隙</h2><h3 id="配气定时"><a href="#配气定时" class="headerlink" title="配气定时"></a><strong>配气定时</strong></h3><p>以曲轴转角表示的进排气门开闭时刻及其开启的持续时间称作配气定时</p><p>进气提前角α，进气迟后角β</p><p>排气提前角γ，排气迟后角δ</p><p><a href="https://imgtu.com/i/gmpF54"><img src="https://z3.ax1x.com/2021/05/03/gmpF54.png" alt="gmpF54.png"></a></p><p>气门重叠角：α+δ</p><h3 id="可变配气定时机构"><a href="#可变配气定时机构" class="headerlink" title="可变配气定时机构"></a>可变配气定时机构</h3><p>组成：可变配气定时器，凸轮轴位置传感器，曲轴位置传感器，机油控制阀和动力系统控制模块（p84）</p><p>在高速时加大进气迟后角，气门重叠角相应减少。</p><p>更先进的类型本田VTEC</p><h2 id="气门组"><a href="#气门组" class="headerlink" title="气门组"></a>气门组</h2><h3 id="气门"><a href="#气门" class="headerlink" title="气门"></a>气门</h3><p>进气门比排气门大</p><h2 id="气门传动组"><a href="#气门传动组" class="headerlink" title="气门传动组"></a>气门传动组</h2><p>组成：凸轮轴，挺柱，推杆，摇臂</p><p><a href="https://imgtu.com/i/gmKYSP"><img src="https://z3.ax1x.com/2021/05/03/gmKYSP.png" alt="gmKYSP.png"></a></p><h3 id="小知识点"><a href="#小知识点" class="headerlink" title="小知识点"></a>小知识点</h3><p>下置式凸轮轴每隔1-2个气缸设置一个凸轮轴轴颈</p><p>为了保证正确的配气和喷油定时，在传动齿轮上刻有<strong>定时标记</strong>，装配时必须对正记号</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="配气机构"><a href="#配气机构" class="headerlink" title="配气机构"></a>配气机构</h1><h2 id="配气机构的组成和作用"><a href="#配气机构的组成和作用" class="headerlink" title="配气机构的组成和作用"></a>配气机构的组成和作用</h2><p><a href="https://imgtu.com/i/gVqqMQ"><img src="https://z3.ax1x.com/2021/05/01/gVqqMQ.md.png" alt="gVqqMQ.md.png"></a></p><p>气门式配气机构</p><p><strong>组成：气门组和气门传动组</strong></p><p>作用：定时开关进气门和排气门</p><p> 种类：</p><ul><li><p>凸轮轴下置式配气机构</p></li><li><p>凸轮轴中置式配气机构</p></li><li><p>凸轮轴上置式配气机构（OHC）</p><p>优点：运动件少，传动链短。常用于高速发动机。</p></li></ul><h2 id="配气定时和气门间隙"><a href="#配气定时和气门间隙" class="headerlink" title="配气定时和气门间隙"></a>配气定时和气门间隙</h2><h3 id="配气定时"><a href="#配气定时" class="headerlink" title="配气定时"></a><strong>配气定时</strong></h3><p>以曲轴转角表示的进排气门开闭时刻及其开启的持续时间称作配气定时</p><p>进气提前角α，进气迟后角β</p><p>排气提前角γ，排气迟后角δ</p><p><a href="https://imgtu.com/i/gmpF54"><img src="https://z3.ax1x.com/2021/05/03/gmpF54.png" alt="gmpF54.png"></a></p><p>气门重叠角：α+δ</p><h3 id="可变配气定时机构"><a href="#可变配气定时机构" class="headerlink" title="可变配气定时机构"></a>可变配气定时机构</h3><p>组成：可变配气定时器，凸轮轴位置传感器，曲轴位置传感器，机油控制阀和动力系统控制模块（p84）</p><p>在高速时加大进气迟后角，气门重叠角相应减少。</p><p>更先进的类型本田VTEC</p><h2 id="阿特金森循环"><a href="#阿特金森循环" class="headerlink" title="阿特金森循环"></a>阿特金森循环</h2><div class="bilibili">  <iframe src="//player.bilibili.com/player.html?aid=328964330&bvid=BV1bA411v7Ut&cid=216269729&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div><h2 id="气门组"><a href="#气门组" class="headerlink" title="气门组"></a>气门组</h2><h3 id="气门"><a href="#气门" class="headerlink" title="气门"></a>气门</h3><p>进气门比排气门大</p><h2 id="气门传动组"><a href="#气门传动组" class="headerlink" title="气门传动组"></a>气门传动组</h2><p>组成：凸轮轴，挺柱，推杆，摇臂</p><p><a href="https://imgtu.com/i/gmKYSP"><img src="https://z3.ax1x.com/2021/05/03/gmKYSP.png" alt="gmKYSP.png"></a></p><h3 id="小知识点"><a href="#小知识点" class="headerlink" title="小知识点"></a>小知识点</h3><p>下置式凸轮轴每隔1-2个气缸设置一个凸轮轴轴颈</p><p>为了保证正确的配气和喷油定时，在传动齿轮上刻有<strong>定时标记</strong>，装配时必须对正记号</p>]]></content>
     
     
       
@@ -336,8 +342,8 @@
   
   <entry>
     <title>曲柄连杆机构</title>
-    <link href="http://example.com/2021/04/19/%E6%9B%B2%E6%9F%84%E8%BF%9E%E6%9D%86%E6%9C%BA%E6%9E%84/"/>
-    <id>http://example.com/2021/04/19/%E6%9B%B2%E6%9F%84%E8%BF%9E%E6%9D%86%E6%9C%BA%E6%9E%84/</id>
+    <link href="http://example.com/2021/04/19/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0/%E6%9B%B2%E6%9F%84%E8%BF%9E%E6%9D%86%E6%9C%BA%E6%9E%84/"/>
+    <id>http://example.com/2021/04/19/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0/%E6%9B%B2%E6%9F%84%E8%BF%9E%E6%9D%86%E6%9C%BA%E6%9E%84/</id>
     <published>2021-04-19T10:17:22.000Z</published>
     <updated>2021-05-18T15:25:15.287Z</updated>
     
@@ -362,8 +368,8 @@
   
   <entry>
     <title>机械设计-连接-螺纹</title>
-    <link href="http://example.com/2021/04/15/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1-%E8%BF%9E%E6%8E%A5-%E8%9E%BA%E7%BA%B9/"/>
-    <id>http://example.com/2021/04/15/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1-%E8%BF%9E%E6%8E%A5-%E8%9E%BA%E7%BA%B9/</id>
+    <link href="http://example.com/2021/04/15/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1-%E8%BF%9E%E6%8E%A5-%E8%9E%BA%E7%BA%B9/"/>
+    <id>http://example.com/2021/04/15/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1/%E6%9C%BA%E6%A2%B0%E8%AE%BE%E8%AE%A1-%E8%BF%9E%E6%8E%A5-%E8%9E%BA%E7%BA%B9/</id>
     <published>2021-04-15T08:37:32.000Z</published>
     <updated>2021-05-18T15:22:53.409Z</updated>
     
@@ -388,12 +394,12 @@
   
   <entry>
     <title>汽车构造--发动机简述</title>
-    <link href="http://example.com/2021/04/08/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0-%E5%8F%91%E9%80%81%E6%9C%BA%E7%AE%80%E8%BF%B0/"/>
-    <id>http://example.com/2021/04/08/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0-%E5%8F%91%E9%80%81%E6%9C%BA%E7%AE%80%E8%BF%B0/</id>
+    <link href="http://example.com/2021/04/08/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0-%E5%8F%91%E9%80%81%E6%9C%BA%E7%AE%80%E8%BF%B0/"/>
+    <id>http://example.com/2021/04/08/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0/%E6%B1%BD%E8%BD%A6%E6%9E%84%E9%80%A0-%E5%8F%91%E9%80%81%E6%9C%BA%E7%AE%80%E8%BF%B0/</id>
     <published>2021-04-08T11:21:57.000Z</published>
-    <updated>2021-04-19T10:16:17.544Z</updated>
+    <updated>2021-05-27T10:20:59.236Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>主要对我专业课《汽车构造》所学知识进行整理。也可能稍微设计其他专业课和课外知识</p><hr><ul><li><h2 id="发动机类型"><a href="#发动机类型" class="headerlink" title="发动机类型"></a>发动机类型</h2></li></ul><p>发动机作车辆中相当于心脏的存在，是汽车的动力源。他在车辆行驶中启着至关重要的作用。发动机按照不同的标准有不同的分类，各种分类下也细分出多种小类。下图是我对发动机的一些分类<img src="https://z3.ax1x.com/2021/04/09/cNrKAS.png"></p><p>此外按照冷却方式不同。也可以分为水冷和风冷。按照进气方式不同，可分为增压和非增压….</p><ul><li><h2 id="发动机结构"><a href="#发动机结构" class="headerlink" title="发动机结构"></a>发动机结构</h2></li></ul><p>以下如果没有特殊说明。则指的是<strong>水冷，四冲程四缸往复式内燃机</strong>。一般都具有<strong>两大机构</strong>和<strong>五大系统</strong>。</p><img src="https://z3.ax1x.com/2021/04/09/cNsY2d.png" alt="cNsY2d.png" style="zoom: 67%;" /><p>基本术语</p><p><a href="https://imgtu.com/i/cdlH3T"><img src="https://z3.ax1x.com/2021/04/10/cdlH3T.png" alt="cdlH3T.png"></a></p><p>w</p><h3 id="1-工作循环："><a href="#1-工作循环：" class="headerlink" title="1.工作循环："></a>1.工作循环：</h3><p>   指的就是进气，压缩，做功和排气。这期间曲轴旋转两周。所以叫做四冲程</p><h3 id="2-上下止点"><a href="#2-上下止点" class="headerlink" title="2.上下止点"></a>2.上下止点</h3><p>   活塞离曲轴回转中心最远的为上止点，最近的为下止点</p><h3 id="3-活塞行程"><a href="#3-活塞行程" class="headerlink" title="3.活塞行程"></a>3.活塞行程</h3><p>   上下止点的距离为活塞行程</p><h3 id="4-容积"><a href="#4-容积" class="headerlink" title="4.容积"></a>4.容积</h3><p>从上到下分别为</p><p>燃烧室容积 VC</p><p>工作容积 VS</p><p>总容积 VA=VC+VS</p><p>压缩比 <img src="file:///C:/Users/25137/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png" alt="img"></p><h3 id="5-工况"><a href="#5-工况" class="headerlink" title="5.工况"></a>5.工况</h3><p>内燃机某一时刻的运行状况</p><h3 id="6-负荷率"><a href="#6-负荷率" class="headerlink" title="6.负荷率"></a>6.负荷率</h3><p>有效功和最大功的比值</p><ul><li><h2 id="四冲程内燃机工作原理"><a href="#四冲程内燃机工作原理" class="headerlink" title="四冲程内燃机工作原理"></a>四冲程内燃机工作原理</h2><p><img src="https://z3.ax1x.com/2021/04/11/cwKnMQ.png" alt="cwKnMQ.png"></p></li></ul><p>​                                                                                           <u><em>P-V</em></u><u><em>示功图</em></u></p><p>详细的工作过程就不在这儿写了。需要注意的的就是每个工作过程的压强和温度。为了提高压缩比，防止爆震，提高进气量等，所做的设计：气缸偏置，进气门早开晚关，气环等等就以后单独再写吧。</p><p>值得一提的是柴油机因为柴油机燃点低，所以没有点火这一步骤。</p><h2 id="内燃机型号怎么看"><a href="#内燃机型号怎么看" class="headerlink" title="内燃机型号怎么看"></a>内燃机型号怎么看</h2><p><img src="https://z3.ax1x.com/2021/04/10/cdg5Z9.png" alt="cdg5Z9.png"></p><p>内燃机的产品型号由首部、中部、后部和尾部四部分组成。<br>  首部：为产品特征代号，包括产品的系列代号、换代标志符号和地方、企业代号三部分。<br>  中部：由缸数符号、气缸排列形式符号、冲程符号和缸径符号组成。气缸数和缸径由数字表示，气缸排列形式符号为V，表示气缸排列像V字形，P表示卧式水平排列，直立及单缸卧式不标注排列符号。冲程符号用E表示二冲程，无E字母表示四冲程。<br>  后部：为结构特征符号和用途特征符号。结构特征中F表示风冷，N表示凝汽冷却，Z表示增压，无字母表示水冷。用途特征符号中T表示用于拖拉机，G表示用于工作机械，Q表示用于车类，通用型不标号。<br>尾部：区分符号。</p><p>如</p><p>CA488型汽油发动机主要技术参数</p><p>形式 四行程、直列、水冷、顶置凸轮轴、化油器式汽油发动机</p><p>气缸数 4</p><p>气缸直径 87.5mm</p><p><img src="https://z3.ax1x.com/2021/04/10/cdgxZd.png" alt="cdgxZd.png"></p><p>如果是汽车的话就是VIN码</p><p>我去网上找了一份。有兴趣可以看看</p><p><em>汽车发动机总体构造</em></p><p><code>https://wws.lanzous.com/iv8NQnw6juf密码:btbw</code></p><p><code>一些网站</code></p><p><code>&lt;!--http://www.china-engine.net/--&gt;中国发动机网</code></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>主要对我专业课《汽车构造》所学知识进行整理。也可能稍微设计其他专业课和课外知识</p><hr><ul><li><h2 id="发动机类型"><a href="#发动机类型" class="headerlink" title="发动机类型"></a>发动机类型</h2></li></ul><p>发动机作车辆中相当于心脏的存在，是汽车的动力源。他在车辆行驶中启着至关重要的作用。发动机按照不同的标准有不同的分类，各种分类下也细分出多种小类。下图是我对发动机的一些分类<img src="https://i.loli.net/2021/05/27/fzIZRP1kS4EATVN.png"></p><p>此外按照冷却方式不同。也可以分为水冷和风冷。按照进气方式不同，可分为增压和非增压….</p><ul><li><h2 id="发动机结构"><a href="#发动机结构" class="headerlink" title="发动机结构"></a>发动机结构</h2></li></ul><p>以下如果没有特殊说明。则指的是<strong>水冷，四冲程四缸往复式内燃机</strong>。一般都具有<strong>两大机构</strong>和<strong>五大系统</strong>。</p><img src="https://i.loli.net/2021/05/27/SZTK372n4XicUlG.png" alt="cNsY2d.png" style="zoom: 67%;" /><p>基本术语</p><p><a href="https://imgtu.com/i/cdlH3T"><img src="https://raw.githubusercontent.com/xqyr/img/main/img/cdlH3T.png" alt="cdlH3T.png"></a></p><p>w</p><h3 id="1-工作循环："><a href="#1-工作循环：" class="headerlink" title="1.工作循环："></a>1.工作循环：</h3><p>   指的就是进气，压缩，做功和排气。这期间曲轴旋转两周。所以叫做四冲程</p><h3 id="2-上下止点"><a href="#2-上下止点" class="headerlink" title="2.上下止点"></a>2.上下止点</h3><p>   活塞离曲轴回转中心最远的为上止点，最近的为下止点</p><h3 id="3-活塞行程"><a href="#3-活塞行程" class="headerlink" title="3.活塞行程"></a>3.活塞行程</h3><p>   上下止点的距离为活塞行程</p><h3 id="4-容积"><a href="#4-容积" class="headerlink" title="4.容积"></a>4.容积</h3><p>从上到下分别为</p><p>燃烧室容积 VC</p><p>工作容积 VS</p><p>总容积 VA=VC+VS</p><p>压缩比</p><h3 id="5-工况"><a href="#5-工况" class="headerlink" title="5.工况"></a>5.工况</h3><p>内燃机某一时刻的运行状况</p><h3 id="6-负荷率"><a href="#6-负荷率" class="headerlink" title="6.负荷率"></a>6.负荷率</h3><p>有效功和最大功的比值</p><ul><li><h2 id="四冲程内燃机工作原理"><a href="#四冲程内燃机工作原理" class="headerlink" title="四冲程内燃机工作原理"></a>四冲程内燃机工作原理</h2><p><img src="https://i.loli.net/2021/05/27/oew2iUdxc6K9IsC.png" alt="cwKnMQ.png"></p></li></ul><p>​                                                                                           <u><em>P-V</em></u><u><em>示功图</em></u></p><p>详细的工作过程就不在这儿写了。需要注意的的就是每个工作过程的压强和温度。为了提高压缩比，防止爆震，提高进气量等，所做的设计：气缸偏置，进气门早开晚关，气环等等就以后单独再写吧。</p><p>值得一提的是柴油机因为柴油机燃点低，所以没有点火这一步骤。</p><h2 id="内燃机型号怎么看"><a href="#内燃机型号怎么看" class="headerlink" title="内燃机型号怎么看"></a>内燃机型号怎么看</h2><p><img src="https://z3.ax1x.com/2021/04/10/cdg5Z9.png" alt="cdg5Z9.png"></p><p>内燃机的产品型号由首部、中部、后部和尾部四部分组成。<br>  首部：为产品特征代号，包括产品的系列代号、换代标志符号和地方、企业代号三部分。（CA一汽，EQ二汽）<br>  中部：由缸数符号、气缸排列形式符号、冲程符号和缸径符号组成。气缸数和缸径由数字表示，气缸排列形式符号为V，表示气缸排列像V字形，P表示卧式水平排列，直立及单缸卧式不标注排列符号。冲程符号用E表示二冲程，无E字母表示四冲程。<br>  后部：为结构<font color='cornflowerblue'>特征符号和用途特&lt;征符号。结构特征中F表示风冷，N表示凝汽冷却，Z表示增压，无字母表示水冷。用途特<font color='orange'>征符号中T&lt;表示用于拖拉机，G表示用于工作机械，Q表示用于车类，通用型不标号。<br>尾部：区分符号。</p><p>如</p><p>CA488型汽油发动机主要技术参数</p><p>形式 四行程、直列、水冷、顶置凸轮轴、化油器式汽油发动机</p><p>气缸数 4</p><p>气缸直径 87.5mm</p><p><img src="https://z3.ax1x.com/2021/04/10/cdgxZd.png" alt="cdgxZd.png"></p><p>如果是汽车的话就是VIN码</p><p>我去网上找了一份。有兴趣可以看看</p><p><em>汽车发动机总体构造</em></p><p><code>https://wws.lanzous.com/iv8NQnw6juf密码:btbw</code></p><p><code>一些网站</code></p><p><code>&lt;!--http://www.china-engine.net/--&gt;中国发动机网</code></p>]]></content>
     
     
     <summary type="html">一般汽油或柴油发动机都具有两大机构，五大系统组成</summary>
@@ -434,8 +440,8 @@
   
   <entry>
     <title>第二章 离家出走</title>
-    <link href="http://example.com/2021/04/07/%E7%AC%AC%E4%BA%8C%E7%AB%A0%E7%A6%BB%E5%AE%B6%E5%87%BA%E8%B5%B0/"/>
-    <id>http://example.com/2021/04/07/%E7%AC%AC%E4%BA%8C%E7%AB%A0%E7%A6%BB%E5%AE%B6%E5%87%BA%E8%B5%B0/</id>
+    <link href="http://example.com/2021/04/07/%E5%B0%8F%E8%AF%B4/%E7%AC%AC%E4%BA%8C%E7%AB%A0%E7%A6%BB%E5%AE%B6%E5%87%BA%E8%B5%B0/"/>
+    <id>http://example.com/2021/04/07/%E5%B0%8F%E8%AF%B4/%E7%AC%AC%E4%BA%8C%E7%AB%A0%E7%A6%BB%E5%AE%B6%E5%87%BA%E8%B5%B0/</id>
     <published>2021-04-07T14:15:11.000Z</published>
     <updated>2021-05-01T14:55:07.140Z</updated>
     
@@ -463,7 +469,7 @@
     <published>2021-04-04T15:54:03.000Z</published>
     <updated>2021-04-12T15:18:57.214Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><img src="https://ae01.alicdn.com/kf/Udd548ab7a4184df9b284879731949119t.jpg"><span id="more"></span></p>    <div id="aplayer-ydwYhKwv" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="3986040" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#555"    ></div><p>在我高中的时候我把将夜读完了。在读将夜之前，我接触的也是网络小说，对于实体书的阅读回想从识字到高中也没读过几本，也不谈留下深刻印象的了。一个是家里环境，父母都不是爱阅读的人，一个是自己尝试去阅读名著发现很难读下去。还记得一次小学期末，老师奖励了一本《钢铁是怎样炼成的》，就这本书我也用了一个暑假也才翻了个七七八八。<br>虽说将夜是网络小说，但又和在之前我读过的那些小说不一样。这是我刚开始读就认识到了的，之后愈发肯定了。</p><p>认识到将夜的不同，要从知道它开始说起。我说过我对阅读人类公认的世界名著做过尝试，其中就包括看到一个买旧书的小摊便凑过去，看看有没有我听说过的书，买回去看看。看得出这位摊主买的应该大部分都是二手书。可能是人少的缘故，摊主便向我推荐起来，正是宁缺到达都城之后考进书院那一段《朱雀之火》。对于没听说的书我是没什么兴趣的。不过纵观这个由三轮车支起的书摊。既有像四大名著，《月亮与六便士》之类的出版名著，也有我曾经看得津津乐道的网络红文。对于看这些书的老板如此热情推荐的书，我是极感兴趣的。在询问过价格之后，我便买下了。但是回家途中我想是不是老板觉得这本书很少会有人买所以才推荐给我的呢？</p><p>我在此之前是不知道《将夜》这本书的，读它的时候也是将他看作《哑舍》，《龙族》这类高品质的出版小说来读。前文我提到过这本书只是《将夜》的一段，可以说没头没尾。所以初读感到莫名其妙。之后也是发扬了读《钢铁是怎样炼成的》精神。分了几次读完。但是在适应或者说带入到小说中后，就入迷了。后大半段就是一气呵成。<br>将夜文风偏文青，就是闷骚这也使在青春期的我得到了极大的满足。我觉得猫腻就是会写言情文的爽文作家。使我着迷的当然是将夜的爽。爽在骄傲二字，主角设定是三好学生，别人家的孩子穿越，以天下人大多数为废柴的骄傲；以书院为代表的强者骄傲，二师兄君陌高人一等的冠，小师叔没人有资格做我师傅，世间无敌拔剑问天，陈某的一句“柯浩然已死，夫子登天，那么我便只好天下无敌。是真t m的骄傲。唐人的骄傲，不畏死。<br>之后在高中，买了个mp4下完了全本，每日都是将夜伴我入睡。看完之后记不得多少，但看时它给我那种不一样的感觉影响到我，建立我的人格，伴我一生。</p><p>将夜有许多好句子如：那年春，我把桃花切一斤。红墙白雪，要你喜欢。<br>也有好多精妙的剧情如：宁缺和夏侯决斗之前宁缺对众人说，“为什么你们都以为我是将军的儿子？”“我为什么一定要是将军的儿子？”“为什么你们都希望我是将军的儿子？”<br>我最喜欢的还是小说的最后桑桑变成一个抱着猫的贵妇人抱怨的说:“宁缺你骗人！”小说的最后桑桑好多的上天无情，最后这一句极具人情味的话语何其温馨，让我可以安心看完结局了。（最后附上我自己写的一首小诗。）</p><p>书院不器意<br>天下浩然气<br>战夏侯<br>斗观主<br>天道与我是本命<br>梳碧湖畔<br>砍出马贼<br>闻风丧胆<br>书院旧书楼<br>呕尽肝肠断<br>老笔斋鸡汤暖<br>刀，命，符，笔<br>元十三箭<br>我已分离<br>还应相见</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><img src="https://ae01.alicdn.com/kf/Udd548ab7a4184df9b284879731949119t.jpg"><span id="more"></span></p>    <div id="aplayer-RoQUFMvg" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="3986040" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#555"    ></div><p>在我高中的时候我把将夜读完了。在读将夜之前，我接触的也是网络小说，对于实体书的阅读回想从识字到高中也没读过几本，也不谈留下深刻印象的了。一个是家里环境，父母都不是爱阅读的人，一个是自己尝试去阅读名著发现很难读下去。还记得一次小学期末，老师奖励了一本《钢铁是怎样炼成的》，就这本书我也用了一个暑假也才翻了个七七八八。<br>虽说将夜是网络小说，但又和在之前我读过的那些小说不一样。这是我刚开始读就认识到了的，之后愈发肯定了。</p><p>认识到将夜的不同，要从知道它开始说起。我说过我对阅读人类公认的世界名著做过尝试，其中就包括看到一个买旧书的小摊便凑过去，看看有没有我听说过的书，买回去看看。看得出这位摊主买的应该大部分都是二手书。可能是人少的缘故，摊主便向我推荐起来，正是宁缺到达都城之后考进书院那一段《朱雀之火》。对于没听说的书我是没什么兴趣的。不过纵观这个由三轮车支起的书摊。既有像四大名著，《月亮与六便士》之类的出版名著，也有我曾经看得津津乐道的网络红文。对于看这些书的老板如此热情推荐的书，我是极感兴趣的。在询问过价格之后，我便买下了。但是回家途中我想是不是老板觉得这本书很少会有人买所以才推荐给我的呢？</p><p>我在此之前是不知道《将夜》这本书的，读它的时候也是将他看作《哑舍》，《龙族》这类高品质的出版小说来读。前文我提到过这本书只是《将夜》的一段，可以说没头没尾。所以初读感到莫名其妙。之后也是发扬了读《钢铁是怎样炼成的》精神。分了几次读完。但是在适应或者说带入到小说中后，就入迷了。后大半段就是一气呵成。<br>将夜文风偏文青，就是闷骚这也使在青春期的我得到了极大的满足。我觉得猫腻就是会写言情文的爽文作家。使我着迷的当然是将夜的爽。爽在骄傲二字，主角设定是三好学生，别人家的孩子穿越，以天下人大多数为废柴的骄傲；以书院为代表的强者骄傲，二师兄君陌高人一等的冠，小师叔没人有资格做我师傅，世间无敌拔剑问天，陈某的一句“柯浩然已死，夫子登天，那么我便只好天下无敌。是真t m的骄傲。唐人的骄傲，不畏死。<br>之后在高中，买了个mp4下完了全本，每日都是将夜伴我入睡。看完之后记不得多少，但看时它给我那种不一样的感觉影响到我，建立我的人格，伴我一生。</p><p>将夜有许多好句子如：那年春，我把桃花切一斤。红墙白雪，要你喜欢。<br>也有好多精妙的剧情如：宁缺和夏侯决斗之前宁缺对众人说，“为什么你们都以为我是将军的儿子？”“我为什么一定要是将军的儿子？”“为什么你们都希望我是将军的儿子？”<br>我最喜欢的还是小说的最后桑桑变成一个抱着猫的贵妇人抱怨的说:“宁缺你骗人！”小说的最后桑桑好多的上天无情，最后这一句极具人情味的话语何其温馨，让我可以安心看完结局了。（最后附上我自己写的一首小诗。）</p><p>书院不器意<br>天下浩然气<br>战夏侯<br>斗观主<br>天道与我是本命<br>梳碧湖畔<br>砍出马贼<br>闻风丧胆<br>书院旧书楼<br>呕尽肝肠断<br>老笔斋鸡汤暖<br>刀，命，符，笔<br>元十三箭<br>我已分离<br>还应相见</p>]]></content>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://ae01.alicdn.com/kf/Udd548ab7a4184df9b284879731949119t.jpg&quot;&gt;</summary>
@@ -479,8 +485,8 @@
   
   <entry>
     <title>第一章 祖灵山上有婴儿</title>
-    <link href="http://example.com/2021/04/04/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%A5%96%E7%81%B5%E5%B1%B1%E4%B8%8A%E6%9C%89%E5%A9%B4%E5%84%BF/"/>
-    <id>http://example.com/2021/04/04/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%A5%96%E7%81%B5%E5%B1%B1%E4%B8%8A%E6%9C%89%E5%A9%B4%E5%84%BF/</id>
+    <link href="http://example.com/2021/04/04/%E5%B0%8F%E8%AF%B4/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%A5%96%E7%81%B5%E5%B1%B1%E4%B8%8A%E6%9C%89%E5%A9%B4%E5%84%BF/"/>
+    <id>http://example.com/2021/04/04/%E5%B0%8F%E8%AF%B4/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%A5%96%E7%81%B5%E5%B1%B1%E4%B8%8A%E6%9C%89%E5%A9%B4%E5%84%BF/</id>
     <published>2021-04-04T09:32:43.000Z</published>
     <updated>2021-05-01T14:55:12.087Z</updated>
     
